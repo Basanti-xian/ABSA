@@ -1,0 +1,490 @@
+ week =  hours of work on this project.^Power scheduling task^0
+however, they will both need to be release to production at the same time.i will keep you updated on the progress of this project.^Energy^0
+as you may be aware, enron corp. is a member of the official unsecured creditors' committee appointed in the pacific gas and electric company bankruptcy case.^Company^-1
+as you may be aware, enron corp. is a member of the official unsecured creditors' committee appointed in the pacific gas and electric company bankruptcy case.^Company^-1
+michael tribolet with the risk assessment and control group is enron's designated representative on the committee and he is being assisted by lisa mellencamp in the enron north america corp. legal group.^Company^0
+please be advised that they will be restricted from disclosing certain of the information that they receive.attached are ethical wall procedures regarding confidential information that enron may receive as a member of the committee.^Company^0
+cara & corryi am happy to annouce that we have completed the two new applications which will help scheduling groupwith routing and path confirmation.^Power scheduling task^1
+cara,i have completed most of the work on the pre-schedule workspace.^Power scheduling task^1
+special terminal server or outside of terminal server.i have a meeting to go to.^Power scheduling task^0
+build routes is dependent on the data staying in the sheet to determine if deals have changed.^Business^0
+the goal of this application is to allow you to set your excel worksheets aside and work strictly within pre-schedule workspace (psw).^Power scheduling task^0
+"since ""buildroute"" has been, and will be, a fundamental part of east scheduling we agreed that the new version should save in the same manner it does now, nothing more.thanks,corry"^Power scheduling task^0
+let me know if you are still having trouble pulling up deals for palo.regards,will^Business^-1
+also, you should be able to run the application in any terminal server environment.i verified that i could pull up a mass of deals for palo verde and june .^Business^1
+this is to protect against deals being pulled in a second time and being accidentally duplicated in the workspace.^Business^1
+log in using your enron email address.^Company^0
+other options are being reviewed to allow you to view old expense reports.. are there any enron specific help instructions for concur expense?answer: yes.^Company^0
+if you log into concur expense, you will see a link to enron help on the concur expense home page under the company links section.^Company^0
+if you log into concur expense, you will see a link to enron help on the concur expense home page under the company links section.^Company^0
+also you will see a button for enron help at the top of the screen when entering expense reports.. is enron's travel policy available in concur expense?answer: yes.^Company^0
+if you log into concur expense, you will see a link to travel policy on the concur expense home page under the company links section.^Company^0
+i= had difficulty checking the routing results, as i kept getting bde errors =in scheduling after routing had occurred (local enpower).^Power scheduling task^-1
+this current speed will not be sufficient to work in production.^Energy^-1
+this current speed will not be sufficient to work in production.^Power scheduling task^-1
+also, =many rows that were flagged for confirmation were not imported, and i canno=t find an error log to help understand why deals were not imported to path =confirmation.when the path confirmation task was finished,  the application simply froze=.^Business^-1
+good morning,my target testing date today is june th,  i am running in test p in local= enpower using actual data from our scheduling sheets re-arranged to meet t=he new guidelines.the daily deals i coded x in columns j and n,  the month long bookouts and =bom bookouts i coded r. =what worked:i was able to retrieve my saved workspace with all data intact.^Power scheduling task^0
+good morning,my target testing date today is june th,  i am running in test p in local= enpower using actual data from our scheduling sheets re-arranged to meet t=he new guidelines.the daily deals i coded x in columns j and n,  the month long bookouts and =bom bookouts i coded r. =what worked:i was able to retrieve my saved workspace with all data intact.^Business^0
+a =check of deals actually scheduled vs. build route results showed that all d=eals were extracted correctly from enpower.^Business^0
+the improvement we are expecting to see is the app shou=ld not duplicate deal strips on dates that have no physical power flow.^Energy^0
+(we=st light load currently does this in start view, but not active view)navigating around the scheduling sheet itself i was able to accurately exec=ute the sort function on a single criteria at a time.^Power scheduling task^0
+multiple sorting will= contunue to be done in excel, or we can do a series of single sorts in the= psw to acheive the same result.routing deals: will had deleted all routes for june th, starting me with =a clean slate.^Business^0
+the deals that were not routed appear to be due to a us=er error of deal number duplication in the sheet.^Business^0
+this routing was very easy, a large point with on p=eak non shaped deals only.things i did not expect that i liked:when i highlight a group of cells in build route, it stays highlighted when= i move up to the scheduling sheet to highlight a comparison group of cells=.^Power scheduling task^0
+scheduling kept s=tarting up in .^Power scheduling task^1
+most routing was done, and a spot check of deals shows that they we=re routed properly.^Business^1
+this routing was very easy, a large point with on p=eak non shaped deals only.things i did not expect that i liked:when i highlight a group of cells in build route, it stays highlighted when= i move up to the scheduling sheet to highlight a comparison group of cells=.^Business^1
+cara,email corry bentley with the list of counterparties you would changed.^Business^0
+i keep having small anxiety attacks when i realize all of the tweaking we'll have for a while.onward through the fog.aquila - agreedukeenetra - detmmorgan - agreeedison - agreeavista - agreethe rest we don't have any contracts with as far as i know.i'll have everyone back next week and re-do some of my testing on the workspace.cb^Business^-1
+build routes is dependent on the data staying in the sheet to determine if deals have changed.^Business^0
+all, just to let you know in case you didn't know already, the new table edit has been put into production (actually went in on -).^Energy^1
+here's my first cut..  enpower deal scheduling.^Power scheduling task^0
+we will be using an architecture that minimizes the traffic over the wan, utilizes specialized servers to do most of the processing, and implementing more back-end power.^Energy^1
+can you give asem and me some deal numbers to look into regarding the northwest delivered deals with multiple delivery points?.^Business^0
+i am only putting physical paths in the confirm upload, which reduces the data set dramatically.i have routed midc for /, the bpa deals left unrouted are .^Business^0
+this type of deal will always be done, and there are other deals that get moved in the southwest as well.^Business^0
+there is a walc transmission deal that is at pinnacle peak, and is changed daily in scheduling to west wing.the deals missing dashes seem to all be the same.^Business^0
+"then (whenever the ""next"" modification was implemented), they would add the capability to interact with enpower deals (ie write notes to the deal record and then, provide an entry point for deal entry for new deals done).the east group does not need to see por/pod in the path for ""transmission."""^Business^0
+"enron needs to be shown as ""bookends"" on the transmission we use, or else it could be misconstrued as a purchase or sale.some really long paths might show better in line view if that could auto-size verticallywhen i try to cut a particlar path, the action of the entire path cut screen coming up and then me having to choose new path cut totally blocks my view of the existing path i am trying to deal with."^Company^0
+you can either test it in either of the test environments (pwrtestn or pwrtestp) or you can have mike tully create a temporary short-cut for you so you can run the report against production data.thanks,  poston^Energy^0
+daily summary is a current function; creating data that i use to report our volumes to our traders, belden, and lavorato.^Business^0
+this must be done for production, as they ask me for this often.^Energy^0
+we would like the delivery point selection to mimic the same functionality as the delivery point selection we see in scheduling.^Power scheduling task^0
+hi cara,roger and i are meeting with our financial and rate people at : todiscuss this.^Power scheduling task^0
+remember, you are giving this meeting!^Power scheduling task^0
+cara,	looking into the physical and bookout summary reports, upon recreating the functionality there are certain sections to the report which we aren't clear on.. we are still needing to know which delivery points to map the following summary sections to:	cob	pv 		[currently mapped to palo verde]	midc 		[currently mapped to mid columbia]	nwmisc	swmisc	california	[currently mapped to  np-, sp and zp]	we've recreated the reporting functionality [excel based]  from within our new application.. and upon obtaining these mappings we can push this out to production for ya'll  asap.^Energy^0
+below confirms that the transmission deals in april did calculate the correctdemand charge even though it created  strips.-heather^Business^1
+this adjustment would also bedone on any deals that we enter into our system on your behalf.^Business^0
+thecharge would not show up on the sheet, we can modify the formulas tomake sure that only the direct bill stuff gets charged there.is this going to work for you?i explained that i billed july separately for everything, and do notwant to adjust all the july deals to do this, and he was ok with that.please call or e-me with your comments on this, i want to get thingsflowing smoothly just as fast as we can.thanks!cara**********************************************************************this e-mail is the property of enron corp. and/or its relevant affiliateand may contain confidential and privileged material for the sole use ofthe intended recipient (s).^Business^0
+this e-mail (and any attachments hereto) are notintended to be an offer (or an acceptance) and do not create or evidence abinding and enforceable contract between enron corp. (or any of itsaffiliates) and the intended recipient or any other party, and may not berelied on by anyone as the basis of a contract by estoppel or otherwise.thank you.^Business^0
+as far as the new scheduling fee, i'm being told that we're still negotiating a way to enter this into enpower.^Power scheduling task^0
+i'll let you know once i've talked with cara and greg to determine whether or not it will be a price adjustment per mw on each deal or a lump sum annuity each month.^Finance^0
+the carp it people : hmmmm i don't know if they exist  - i got a kick out of that one!yes i do have a call into it - they are working on a solution for carp.in the meantime when dealing with a monthly demand charge - make sure only one strip contains the demand charge.the reason we had the problem with april is because the system automatically created the  strips due to the time change.so to avoid any problems until this has been fixed - if you have a deal with multiple strips - and have a monthly demand charge / mw,make sure only one strip has the demand charge price entered.i will keep you updated on this issue.let me know if you have any additional questions.-heather^Finance^0
+for the scheduling fee.^Power scheduling task^0
+all,deal scheduling has been moved to stage and is available for testing.thanks,karen..^Power scheduling task^1
+however, looking at the scheduling file we quit entering services schedules in the lotus notes files early jan.  when the calpx went away and we started doing unit contingent deals instead of firm.all deals are entered under the services book and all went physical.i'll be out next week on vacation.les^Power scheduling task^0
+however, looking at the scheduling file we quit entering services schedules in the lotus notes files early jan.  when the calpx went away and we started doing unit contingent deals instead of firm.all deals are entered under the services book and all went physical.i'll be out next week on vacation.les^Business^0
+since we're talking about locations of these summary files.. is the production report located at o:\portland\westdesk\scheduling\physicalandbookoutsummary_v__westprod.xls ?^Energy^0
+cara,	understood, and your plan sounds fine.. any chance of you copying that production sheet onto your local machine and using it as your own 'test' copy then?^Energy^0
+i will return to work on /.^Power scheduling task^0
+cara will be scheduling light load cob and light load midc while i am gone.thank you.donald^Power scheduling task^0
+cara, corry,i am trying to get data refreshed to pwrtestp from production, but there will be some delay due to some other testing against testp.^Energy^0
+cara, we are still investigating the issue with data not showing up in scheduling.^Power scheduling task^0
+are you not able to test pre-schedule if that issue is not resolved?keep in mind we are trying to get this version out to production as soon as possible so we can move forward on the executive summary report.let me know if there is anything you need from us.thanks,will^Energy^0
+john-for the testing of these deals as part of the doorstep review, we will need the following from risk mgmt:deal ticket (system generated is fine)curve that deal was marked against (we can validate curves on day deals were booked to appropriate pricing index)for open deals, we would like to test the current mtm value:  we will want to trace position / value to dpr .once we review the deals (via deal tickets) we can then get the additional info from the varying groups: credit watch list for the day deals were booked (to verify that cp's are not on list) - tracy?confirmation / signed contract (on originated deals) - joe hunterfor liquidated deals (physical) - we would need to get scheduling support (verify transportation rates, nominations confirmations, invoice support, etc) - murray, cara?settlement of deal - i can contact leslie reeves group for support on this to verify through to g/l and cash apps.^Business^0
+john-for the testing of these deals as part of the doorstep review, we will need the following from risk mgmt:deal ticket (system generated is fine)curve that deal was marked against (we can validate curves on day deals were booked to appropriate pricing index)for open deals, we would like to test the current mtm value:  we will want to trace position / value to dpr .once we review the deals (via deal tickets) we can then get the additional info from the varying groups: credit watch list for the day deals were booked (to verify that cp's are not on list) - tracy?confirmation / signed contract (on originated deals) - joe hunterfor liquidated deals (physical) - we would need to get scheduling support (verify transportation rates, nominations confirmations, invoice support, etc) - murray, cara?settlement of deal - i can contact leslie reeves group for support on this to verify through to g/l and cash apps.^Power scheduling task^0
+cara / corry,		having released versions of path confirmation and preschedule workspace, we definitely would like to hear as to how the applications do testing-wise before commencing work on the next phase.^Power scheduling task^0
+cara,	trying to figure out why im seeing a discrepancy.. could you please send me a snapshot of the deal criteria screeen from within scheduling so that i can see exactly what critieria it is you are looking under..  really appreciate it..thanksasemx^Power scheduling task^0
+cara,	you are correct, if run with the params you supplied there are no results.. i did go ahead and check the option to 'include cross portfolio deals' and deals did then show up.. please do try it with that option checked and let me know.thanksasemx^Business^0
+cara,		looking at the stage and production versions of the deal scheduling application it looks like the stage version has some issues/differences.. [e.g being that check option for cross portfolio deals is in stage and not production release].^Power scheduling task^0
+cara,		looking at the stage and production versions of the deal scheduling application it looks like the stage version has some issues/differences.. [e.g being that check option for cross portfolio deals is in stage and not production release].^Energy^0
+cara,		looking at the stage and production versions of the deal scheduling application it looks like the stage version has some issues/differences.. [e.g being that check option for cross portfolio deals is in stage and not production release].^Business^0
+this is must be fixed prior to release for production as our wscc fee pulls directly from this data in deal scheduling.path confirmation:speed is very much an issue here,  i had mark guzman sit with me while i cut a path and when i confirmed a group of paths.^Energy^0
+the two other apps are in stage and the schedules for our test date have been erased.. i will notify you immediately once we have deal scheduling's issue resolved.thanksasemx^Power scheduling task^-1
+cara,		thanks for stepping me through deal scheduling to see exactly what the problem was in regards to the physical/non-physical issue.^Power scheduling task^1
+just got done talking with corry, and deal scheduling showing the incorrect status of a physical routed flag is an issue.^Power scheduling task^-1
+corry will proceed and test against pwrtestp on monday, no production rollouts will occur at this time.^Energy^0
+since we do have a major database migration process this weekend, our dba's are currently tied up and our requests for production updates to the database have been slightly postponed till next week.regardsasemx^Energy^0
+issue with deal scheduling not showing the correct 'physical route' status has been addressed and is currently being worked on and will be released within the next day or two.^Power scheduling task^-1
+corry,	as per will, the understanding was that deals with transmissions were far and few in between and were currently being manually routed, and this was not a feature to be expected with the current version of preschedule workspace and so it will not route currently.^Business^0
+second query worked ok, data could be viewed.what did work:only east power showing up!i'll be testing again today, and d. baugham will be looking at the psc this week.thanks,corry^Energy^0
+has an existing agreement for non-delivery in may and june for the contract term.^Business^0
+this seems different and inferior.problem fixed - in stagefunctionality bug still to be fixed:>i routed all of the deals for all the western points, and a spot check still shows that the physical flag is not showing up properly in deal scheduling, although it does show properly in path confirmation.^Power scheduling task^-1
+this seems different and inferior.problem fixed - in stagefunctionality bug still to be fixed:>i routed all of the deals for all the western points, and a spot check still shows that the physical flag is not showing up properly in deal scheduling, although it does show properly in path confirmation.^Business^0
+i checked many routed deals, not one showed the physical flag checked.problem fixed - in stagepending features that i am not sure of the status on:>the real time discussion that is currently part of lotus, but spoke with poston regarding and i believe he is heading up this effort with you all.we are currently looking to the solution to this problem.^Business^0
+>the executive report that will replace the aggschedvol report and the daily excel summary.yes, the new application is available under enpower launchpad -> tools -> executive report.in summary:all other functions seem to be working, and as soon as we nail down the routing one, i can pass the testing off to real time for their final changes before going to production.it is my intention that once we go to production we have one entire month of parallell testing before the lotus system is abandoned.thanks for your work, let me know when you are ready for me to test again.^Energy^0
+the only open item is observation #  concerning the i/t system build for a scheduling system and the fact that the server would reside in houston (and thus, potential exposure if link between houston and portland fails).^Power scheduling task^0
+tim belden requested that i put your names as owners.^Boss^0
+this is your deadline to return any comments to me.second draft of so workshop notes sent          //first draft of nerc training program/role       //white paper on role and training program posted //public comments due     ( days from posting)  //final draft of action plan for nerc             //oc or bot approval of action plan (open)                (unknown - depends on who will approve and when their meeting is held)again thanks for your help and participation.^Power scheduling task^0
+be sure to include complete information for guests, including name, company name and address, telephone number.^Company^0
+i also filled her in on our situation as a company, she had no idea.^Company^0
+susie and i talked, she and i agreed that she would work - m-th,  and - on fridays.^Power scheduling task^1
+"billion dollars, so i am the one buying enron.my new company is called  ""cara-land""."^Company^1
+"good eveningi ran a master download for december  so that over the next few days i can test the overwriting fix, and found two deals that are  hour deals, show scheduled hours of -, but are segregated with the ""off peak"" deals."^Business^0
+no, i will just make a note of these two strange deals^Business^0
+any change to it must go thru me.the change in the build route for dart deals is a minor one, a check box on the user interface.^Business^0
+real time can run the report to show only dart deals, and they would be captured that way.please see me before any changes to the build route are discussed.cara^Business^0
+i am suprised at how little the bare bones employee and the full package employee trips differ in price!i wanna do the  grand package.^Finance^-1
+mike tully is going to work on this with you today.^Power scheduling task^0
+good morning,here are the direct bookouts i have matched up along with my options i only show open cob contracts on the llhgive me a call when you are ready to go.^Business^0
+good morning,here is the bookout disposition that i have so far, along with my booking out options for the llh contracts that we have open.^Business^0
+i am only doing cob, diane will be doing midccara sempergerwest power scheduling supervisorenron north america/-^Power scheduling task^0
+i am only doing cob, diane will be doing midccara sempergerwest power scheduling supervisorenron north america/-^Energy^0
+i am supposed to go back to work on the th and may not be going back at all.^Power scheduling task^0
+other deals is fine,build route has been selecting the hourly deals just fine, and including them in the off peak sections.^Business^1
+we must be able to see these deals, as we have a great many deals with odd hours and shaped schedules.thanks,cara^Business^1
+running a month long sheet from scratch is a huge problem for us, it forces us to do massive amounts of work over and over again.i need you to find out why this is happening, and let me know when it is fixed.cara^Power scheduling task^-1
+"we also need a box that says ""include only dart deals""please also  make absolutely sure that this is included in the psw build route, as we use it nearly exclusively now.vish knows about our problems with that.cara"^Business^0
+i have re-started enpower since the e-mail came out saying that the new version has been put into production.i ran the attatched sheet, and the last group of deals that i was given had old deals blended with new deals.these start on line .^Business^0
+good morning,only one open contract for december left to find a sink for!^Business^1
+something is broken with the new release,none of our light load deals pull in!^Business^-1
+this is priority,  why would heavy load and  hour deals pull in, but not light load deals?please see the attached sheet!we should be seeing  at palo at pge system^Business^-1
+cara sempergerwest power scheduling supervisorenron north america/-^Energy^0
+no changes to any existing data, just adding real power losses^Energy^-1
+put vending machines in where it says cows, and you have the filed business plan for my new company^Business^0
+put vending machines in where it says cows, and you have the filed business plan for my new company^Company^0
+hi sweetie, i still can't believe all of this, enron is laying off people here left and right, our traders are trying to call in favors to find jobs for as many people as possible.^Company^-1
+we are still trying to deliver on contract, and not all of our counterparties have cut us off.^Business^-1
+we are still trying to deliver on contract, and not all of our counterparties have cut us off.^Business^-1
+but i don’t find things going any better from here i can't imagine for the life of me why anyone would continue to do business with enron!^Company^-1
+but i don’t find things going any better from here i can't imagine for the life of me why anyone would continue to do business with enron!^Business^-1
+hi sweetie, i still can't believe all of this, enron is laying off people here left and right, our traders are trying to call in favors to find jobs for as many people as possible.^Business^1
+hi mom,i am still here, there is so little work that pretty much all i do is talk to people, play computer games and read e-mail.^Power scheduling task^-1
+most of our counterparties have stopped business with us.^Business^-1
+most of our counterparties have stopped business with us.^Business^-1
+the profit and loss statement of december shows me this company is failing down.^Statement^-1
+the profit and loss statement of december shows me this company is failing down.^Company^-1
+i am glad to see that, i felt really bad for how upset he was.he is going to go stay with his folks for a few days, they had their insurance company call and tell them that if they didn't clean up the outside of the house that they would drop them from insurance.^Company^0
+i'm also thinking about moving to another company, but not sure where should i go.^Company^0
+i propose that while work is so slow we have some informal tutorials from the folks who know stuff.sqlaccessexcel stuff (susie is a bona-fide expert teacher!^Power scheduling task^-1
+there are bpa real power losses for the th only  and some transmission only paths^Energy^-1
+i will be surrendering my cell phone when enron no longer wishes to pay for it^Company^-1
+for your reference, the following counterparties have terminated deals with us.^Business^-1
+for your reference, the following counterparties have terminated deals with us.^Business^-1
+a separate portfolio has been set up in enpower to handle these deals from jan  through the remaining term of each deal and will no longer be valued under the west region.^Business^0
+the original deals will only have volumes until dec ,  in the west portfolio.please forward this on to anyone who made need it for their reference.^Business^0
+hi mom, friday was a horrible day at work, we had layoffs of about % of our office.^Power scheduling task^-1
+only a few people left in enron that i really trust.^Company^0
+let's meet tomorrow morning about  am to let me show you all of the tools that scheduling uses.^Power scheduling task^0
+please join us if you would like.cara- (work)^Power scheduling task^0
+hi julie,since the stress of work is making me drink, will my liver transplant be covered by the company?^Power scheduling task^-1
+:)many counterparties have already terminated deals with us it is so stressful!^Business^-1
+:)many counterparties have already terminated deals with us it is so stressful!^Business^-1
+hi julie,since the stress of work is making me drink, will my liver transplant be covered by the company?^Company^0
+if anyone has someth=ing to add, please e-mail directly to anne.portland systems:trader position and pricing spreadsheetstrader historical price spreadsheetsfundamental analysis group's source code, sql server, databases, etc.california scheduling system and source code including caps and fspvolume management system and source code including settle and vmsscheduling spreadsheetsreal time lotus notes databasesmicrosoft outlook contacts, etc.structuring modelsservices desks models and spreadsheetsnew generation database and spreadsheetsall enpower systems and toolswscc customer lists and market assessment database prepared by middle marke=t and origination groupipc phones in portlandall portland it infrastructure including servers and local area network^Power scheduling task^0
+if you could use a little company, i would be game for something fun to do!^Company^-1
+i am going to work very hard to come through this with dave and me as much friends as possible, so that the stress to us all will be minimized.^Power scheduling task^1
+i got him this truck to help him with his business.^Business^0
+i think it would be wise.also, if you want to transfer pahio to our joint account that is fine,  i would like to have pahio.when you come up, if you want to come to work here and get the car and give me the truck keys, we can do that.^Power scheduling task^0
+**********************************************************************************************************************************this e-mail is the property of craig and is written for the the hottest lady at enron.^Company^0
+i am keeping that one in my palm pilot so i can read it anywhere i want.i woke up thinking about you, took my bubble bath and looked at my pink toenails thinking about you, put on my lotion thinking about you, drove to work singing along with the radio to steely dan thinking about you, and am just about useless at my desk thinking about you.i really enjoyed just vegging last night.^Power scheduling task^0
+not much work to do with the deals closing off.^Power scheduling task^-1
+not much work to do with the deals closing off.^Business^-1
+lot of people have left the company and the remaining some of us are trying to work on the few contracts left.^Power scheduling task^-1
+lot of people have left the company and the remaining some of us are trying to work on the few contracts left.^Business^-1
+lot of people have left the company and the remaining some of us are trying to work on the few contracts left.^Company^-1
+This unusual work pattern is adding up to my stress with the damp atmosphere  here and all i can think about are those beautiful eyes of yours which could comfort me.i just love the way you look at me.^Power scheduling task^-1
+also to top it all off, things have been seemingly more difficult at work.^Power scheduling task^-1
+we’ve lost a huge number of deals and are scrambling to make the best we can out of the few contracts we hold on to and it’s been nothing short of oppressive.^Business^-1
+we’ve lost a huge number of deals and are scrambling to make the best we can out of the few contracts we hold on to and it’s been nothing short of oppressive.^Business^-1
+all I can think of is how depressing enron has become.^Company^-1
+with the little pathetic deals we have, I can only see darkness looming ahead.^Business^-1
+hi, i am sitting here at my desk talking contracts and energy.^Business^0
+hi, i am sitting here at my desk talking contracts and energy.^Energy^0
+the place once filled with the chatter of traders has now turned to gloom.^Business^0
+hi,i am sitting here at my desk talking contracts and energy, and in myhead i am thinking about kisses, caresses, and waking up with you.^Business^-1
+hi,i am sitting here at my desk talking contracts and energy, and in myhead i am thinking about kisses, caresses, and waking up with you.^Energy^-1
+good morning,i am going into a meeting at nine for i am not sure how long, so just leave a message if you have a problem or a question.^Power scheduling task^0
+you are the only thing on my calendar after tonight, sir.call me at work, i would love to hear your voice.^Power scheduling task^0
+hi donald,i got a smattering of information that the big e will probably go after us contract folks that attempt to defect.^Business^-1
+let me know.regards,tim^Boss^0
+hopefully this e-mail will accomplish that goal.a number of counterparties in the west have not yet terminated our deals and have benefited from our inability to procure power in the market to serve these deals.^Business^0
+hopefully this e-mail will accomplish that goal.a number of counterparties in the west have not yet terminated our deals and have benefited from our inability to procure power in the market to serve these deals.^Business^0
+we don't necessarily care who buys it, but rather, we want to ensure that we receive the best price and that all purchases are communicated.whoever secures a supply needs to communicate the need for cash to steve thome.deal entrythe new deals need to be entered in a manner that will be possible to settle.^Business^0
+hopefully this e-mail will accomplish that goal.a number of counterparties in the west have not yet terminated our deals and have benefited from our inability to procure power in the market to serve these deals.^Energy^0
+instead, these counterparties have been happy to not receive high priced power from us and are filling their positions in the market at much lower prices.we have taken the limited supplies that we are still receiving and delivering these limited supplies to the highest price sales contracts that we have.^Energy^0
+instead, these counterparties have been happy to not receive high priced power from us and are filling their positions in the market at much lower prices.we have taken the limited supplies that we are still receiving and delivering these limited supplies to the highest price sales contracts that we have.^Finance^0
+after discussing the matter with stacey white, she recommended entering the new deals in enpower as zero price, non mtm, with an annuity equal to the prepay amount.we should enter notes into enpower indicating that these are prepay transactions.this will allow settlements to match an annuity in enpower with prepay out the door.^Finance^0
+our counterparties have no motivation to terminate our contracts because such a termination would force them to write us a substantial check.^Business^1
+our counterparties have no motivation to terminate our contracts because such a termination would force them to write us a substantial check.^Business^1
+after discussing the matter with stacey white, she recommended entering the new deals in enpower as zero price, non mtm, with an annuity equal to the prepay amount.we should enter notes into enpower indicating that these are prepay transactions.this will allow settlements to match an annuity in enpower with prepay out the door.^Business^1
+we don't necessarily care who buys it, but rather, we want to ensure that we receive the best price and that all purchases are communicated.whoever secures a supply needs to communicate the need for cash to steve thome.deal entrythe new deals need to be entered in a manner that will be possible to settle.^Finance^1
+good morning..........sir,i am wearing my sweatshirt and my new boots to work, so my feet are warm and i feel like i have you wrapped around me.^Power scheduling task^0
+good natured fun dancing with the buds from work.^Power scheduling task^1
+just thinking of the plenty of people who lost their retirement savings when the value of their Enron stock evaporated makes me sick to the stomach.^Stock^-1
+i am officially playing hooky from work tomorrow.^Power scheduling task^-1
+there are many outside firms representing multiple parties that will be requesting, among other things, certain tasks to be performed, filings with the bankruptcy court, financial analysis and general business information.^Business^0
+the decision by federal judge arthur j. gonzalez, of the bankruptcy court of the southern district of new york, follows a wednesday hearing on enron's motion for an expedited sale of the business.^Business^-1
+but potential buyers have expressed little interest so far in enron's trading contracts, which are valued at $ billion to $ billion, according to martin bienenstock, of weil gotshal & manges law firm, which represents the company.^Company^-1
+but potential buyers have expressed little interest so far in enron's trading contracts, which are valued at $ billion to $ billion, according to martin bienenstock, of weil gotshal & manges law firm, which represents the company.^Company^-1
+enron will own % of the joint venture, new energy trading co., while the buyer will own %.^Energy^0
+j.p. morgan chase, ubs ag and citigroup have all expressed interest in the energy-trading business, people familiar with the matter have said.^Business^1
+j.p. morgan chase, ubs ag and citigroup have all expressed interest in the energy-trading business, people familiar with the matter have said.^Collaborators^1
+I wonder how you’re still clinging on when business at enron is terrible.^Business^-1
+I wonder how you’re still clinging on when business at enron is terrible.^Company^-1
+looks like dynergy might be targetting our energy pipelines which will then be even more horrible for us.^Collaborators^-1
+looks like dynergy might be targetting our energy pipelines which will then be even more horrible for us.^Energy^-1
+electronic scheduling work group (partial listing)we have received information that you are a member of the new electronic scheduling work group.^Power scheduling task^0
+electronic scheduling work group (partial listing)we have received information that you are a member of the new electronic scheduling work group.^Power scheduling task^0
+hello, and happy new year!regarding new health insurance cards for :if you signed up for a new health plan, your new insurance card should be arriving at your home address.^Health^0
+schedule:/ tim belden - floor overview/ matt motley  - term trading/ sean, diana, richter - cash trading / california market/ stewart, paul, foster - middle market / services/ tim h - fundies/ alan - regulatory/ donald - scheduling/ bill - real time/ scotty - volume management/ john - risk management/ susan, steve, christian - credit & legal/ todd - structuring^Boss^0
+to:  all current enron employees who participate in the enron corp. savings plandue to an enron programming error in the transmission of data to the enron corp. savings plan administrator, a number of currently active employees were erroneously coded with a status of terminated on the savings plan system.^Company^-1
+tim will be speaking from  -  today in mt hood.all other sessions will be  -^Boss^0
+our settlement allows dynegy to exercise its option to acquire the pipeline, dismisses their texas lawsuit and extends enron's right to repurchase until june .^Legal^0
+consequently, enron corp. has decided not to contest interim possession and allow the transfer of northern natural gas to dynegy, while the larger issues affecting its future are resolved.the company has concluded that with this settlement, enron should be able to resolve the issue more quickly, as well as avoid the legal cost burden and distractions to the business from protracted litigation in state court.^Business^1
+keep up the good work!stan^Power scheduling task^1
+we plan to radically scale down the supplies we previously kept in stock, but we will maintain a rudimentary supply of the basics.^Stock^0
+It allows dynergy to acquire our pipeline and that is just dreadful news.^Collaborators^-1
+I believe no one would want to do business with us any longer.^Business^-1
+Without the energy pipeline, how should we convince the traders that enron is reliable?^Company^-1
+Without the energy pipeline, how should we convince the traders that enron is reliable?^Business^-1
+Without the energy pipeline, how should we convince the traders that enron is reliable?^Energy^-1
+I really don’t agree or buy into the rubbish that this settlement might bring enron out of the issue.^Company^-1
+i frankly believe that enron is over.^Company^-1
+anyway, have you heard that enron settled a procedural dispute with dynergy?^Company^1
+anyway, have you heard that enron settled a procedural dispute with dynergy?^Collaborators^1
+and I’m thinking ubs is a good choice for us.^Collaborators^1
+i am at work for a few minutes and it already feels like some of the worse minutes.^Power scheduling task^-1
+there seems to be a huge cloud of dread about the air of enron.^Company^-1
+The company failing is out of your hand.^Company^-1
+Don’t stress yourself about the scheduling and enron.^Company^-1
+Don’t stress yourself about the scheduling and enron.^Power scheduling task^-1
+do not worry sweetheart please take care of your health first.^Health^0
+it has come to my attention that there seems to be miscommunication between various groups and people about how dec and jan scheduling for non-terminated deals should be handled.^Business^-1
+as of now, there is little i can do to assist brandon with his request for a cash flow projection.regards,tim^Boss^0
+"a week ago the west power desk met and agreed that we were able to and prepared to update enpower in ""schedule"" for all of the deals that flowed in december."^Business^1
+tim,thanks for the feedback.^Boss^1
+hi mum, I don't want to tell you much over email as I'd rather talk but the future for enron seems dark and the stress is taking a toll on my health.^Company^-1
+hi mum, I don't want to tell you much over email as I'd rather talk but the future for enron seems dark and the stress is taking a toll on my health.^Health^-1
+please do not delay, get this service today to avoid access problems on march .for those companies that have already acquired oati digital certificates, our oati webtag administrator will be contacting your company shortly to activate this service with your current e-tag .^Company^0
+stay tuned ...tim^Boss^-1
+i have a meeting in the next couple of hour where i will get more details.^Power scheduling task^0
+as i understand it, ubs has come to an agreement with enron for the purchase of the north america gas/power trading and marketing organization.^Collaborators^1
+so many traders have lost their jobs because of him and I can't imagine what we have all been a part of.^Business^-1
+hi sweetie, I've been hearing so much rumours about lay and what a terrible person he was.^Boss^-1
+The statements so far seem not so convincing to me.^Statement^-1
+I don't see any point in scheduling for a company that is going down and business looks terrible for everyone around.^Power scheduling task^-1
+I don't see any point in scheduling for a company that is going down and business looks terrible for everyone around.^Business^-1
+I don't see any point in scheduling for a company that is going down and business looks terrible for everyone around.^Company^-1
+The matter regarding the stock and statements we discussed other what do you think?^Stock^0
+The matter regarding the stock and statements we discussed other what do you think?^Statement^0
+The profit and loss statements also will reflect this so be carefull.^Statement^-1
+Stick to your work but don’t get involved too much^Power scheduling task^-1
+You have been supervising the scheduling task for a longtime.^Power scheduling task^0
+dear eswg,this is to notify you that bob harshbarger is going to be the new chair of the electronic scheduling working group.^Power scheduling task^0
+i have also had a change in plans for this week and will not be able to attend the eswg meeting set for thursday (-pm).^Power scheduling task^0
+tim belden will have to decide if and when they can be expensed.^Boss^0
+remember, enron's offices will be closed in observance of martin luther king day this coming monday, january .^Company^-1
+enron recently fell below the following listing criteria: average closing price of a security less than $.^Company^-1
+"enron announced today that its common stock will now be traded as an over-the-counter (otc) equity security under the symbol ""enrnq."""^Stock^0
+this follows a decision by the new york stock exchange (nyse) to file an application to delist enron's common stock, which means that enron's common stock and related securities are suspended from trading on the nyse.^Stock^0
+this follows a decision by the new york stock exchange (nyse) to file an application to delist enron's common stock, which means that enron's common stock and related securities are suspended from trading on the nyse.^Stock^0
+enron is considering whether to appeal the nyse's decision.the nyse has standard criteria for listing stocks, which can be found on their website at www.nyse.com.^Stock^0
+"quotation service for enron's stock will now be provided by the national quotation bureau, llc ""pink sheets."""^Stock^0
+we are already delisted by nyse.^Stock^-1
+figures, with the deals closing last month, the dec cash forecast was very poor failing to meet the nyse standards.^Stock^-1
+figures, with the deals closing last month, the dec cash forecast was very poor failing to meet the nyse standards.^Business^-1
+hi dearie, how is work today?^Power scheduling task^0
+things are hectic here as with the recent events going on pretty much enron is headlines everywhere.^Company^0
+it’s a deep wound for a company named as the most innovative company of the year.^Company^-1
+enron had high stock prices early last year now the stocks have gone down this low?^Company^-1
+it could take a negative impact on the investors trust towards the company.^Company^-1
+tim  is not disclosing any information either.^Boss^-1
+all this makes me wanna drink but my health is so weak deary.^Health^-1
+i mean lay is feeding us more lies.^Boss^-1
+however, if you are not employed by ubs, you remain an enron employee.^Collaborators^0
+as you are all aware, enron and ubs have entered into an agreement for the sale of certain assets of the wholesale gas and power trading organization.^Collaborators^1
+is your health getting any better?^Health^-1
+enron is top news everywhere are you okay at work?^Power scheduling task^-1
+enron is top news everywhere are you okay at work?^Company^0
+ya, enron is pretty much headlines everywhere.^Company^-1
+craig supports me a lot i can also share my burdens at work with him.^Power scheduling task^-1
+please click http://itcapps.corp.enron.com/srrs/auth/emaillink.asp?id=&page=approval to review and act upon this request.request id          : request create date : // :: pmrequested for       : winston.jia@enron.comresource name       : enpower north america west production pwr_portfolio_userresource type       : applications^Energy^0
+the appendix will provide entities with guidance and requirements that they can provide to vendors and incorporate into vendor contracts for software and systems related to interchange transaction tagging.^Business^0
+It’s pretty frustrating each time we venture to do the scheduling and it slows us down terribly.^Power scheduling task^-1
+good morning, here is the spreadsheet that you sent out with the access for the west power scheduling group.^Energy^0
+good morning, here is the spreadsheet that you sent out with the access for the west power scheduling group.^Power scheduling task^0
+i need to know because i had to go back to work early.^Power scheduling task^-1
+am )the meeting will last until approximately pm  and will be presented by senior managers from ubs on the firm and it's strategy.there will be breakfast available at the hotel from am to am and there will be sandwiches afterwards.^Power scheduling task^0
+it was a sweet way to start the day.today there is a meeting from ubs, in about  minutes.^Collaborators^0
+it was a sweet way to start the day.today there is a meeting from ubs, in about  minutes.^Power scheduling task^0
+i will let you know everything.on the way to work i was thinking about us planning for our home.^Power scheduling task^0
+i hated seeing all of your stuff packed away today, i like snuggling with your pillows when you have gone to work.^Power scheduling task^0
+i love you.i hope your meeting was a good one.^Power scheduling task^1
+spending time with you last night did make me feel better but it’s back to negative vibes at work today.^Power scheduling task^-1
+I believe that my time is running out soon to tie up all the loose ends here at enron.^Company^-1
+Securing a new job and handling the scheduling at the same time is stressful.^Power scheduling task^-1
+Also I’ll need to pass you a few statements tonight for you to safekeep.^Statement^0
+The meeting was okay and i might have secured a placement with UBS.^Power scheduling task^1
+I trust you with my life and so I’d trust you with the statements.^Statement^1
+i believe tim has your agreement.^Boss^0
+upon receiving this information, work began immediately to develop a process that allows for otc trades in the plans.on thursday, january , enron initiated a process to facilitate otc trades of enron stock inside the (k) and esop and all pending transactions were processed using thursday's closing price.^Power scheduling task^0
+please read this important information concerning the enron stock fund in the enron corp. savings and esop planson friday, january , trading of enron stock was suspended on the new york stock exchange (nyse).^Stock^0
+please read this important information concerning the enron stock fund in the enron corp. savings and esop planson friday, january , trading of enron stock was suspended on the new york stock exchange (nyse).^Stock^0
+all savings and esop plan transactions, including (k) payroll contributions,  involving this fund were placed in a pending status until trading resumed.as announced by enron's office of the chair on wednesday, january , enron stock would now be traded over the counter (otc).^Stock^0
+upon receiving this information, work began immediately to develop a process that allows for otc trades in the plans.on thursday, january , enron initiated a process to facilitate otc trades of enron stock inside the (k) and esop and all pending transactions were processed using thursday's closing price.^Stock^0
+the presentation will detail ubs benefits and ubs hr policies.^Collaborators^0
+several ubs hr required forms will be distributed during this meeting.^Collaborators^0
+if you are unable to attend this meeting, please contact me or one of the ubs hr personnel.^Collaborators^0
+several ubs hr required forms will be distributed during this meeting.^Power scheduling task^0
+if you are unable to attend this meeting, please contact me or one of the ubs hr personnel.^Power scheduling task^0
+i have seen people rigorously grow and maintain one of the world's most efficient and safest gas pipeline networks; i have seen people dedicate themselves to a cause that became a passion - the opening of energy markets; i have observed smart people come together as a team to build creative solutions like enrononline; and i have watched people tirelessly give of themselves to help their fellow employees and those in the community.^Energy^0
+regardless of what has happened, i am proud of so much of what we were able to accomplish here.thank you for your contributions to the company and for the inspiration you have been to me over the years.ken lay^Company^1
+I want to go to the ten am meeting as i am cara freeland now.^Power scheduling task^0
+i expect my change of name to be implemented in the system asap and those in the meeting to address me as freeland.^Power scheduling task^0
+january ,  dow jones newswirescalif attorney genl says likely to file more energy suitsdow jones newswiressan francisco (ap)--california attorney general bill lockyer said wednesdayhe is likely to file more unfair business practice lawsuits against energysuppliers he thinks overcharged for electricity.but lockyer, in a telephone interview, said after a yearlong investigationhe has found no criminal wrongdoing by any energy suppliers.^Business^-1
+january ,  dow jones newswirescalif attorney genl says likely to file more energy suitsdow jones newswiressan francisco (ap)--california attorney general bill lockyer said wednesdayhe is likely to file more unfair business practice lawsuits against energysuppliers he thinks overcharged for electricity.but lockyer, in a telephone interview, said after a yearlong investigationhe has found no criminal wrongdoing by any energy suppliers.^Energy^0
+"he said he hasdiscovered possible civil violations of california consumer laws prohibitingovercharging - violations that carry no jail or prison time.lockyer's disclosure came a week after the state's top law enforcementofficial sued pacific gas and electric corp., the parent to pacific gas andelectric co., for allegedly siphoning billions from its underling andforcing it to seek federal bankruptcy protection.the pg&e suit is ""the first of many i would expect in the energy area toovercome overcharges,"" lockyer told the associated press."^Energy^0
+"in the interview, the attorneygeneral did mention enron by name, saying ""we're still looking at the energyovercharges,"" and he accused enron of withholding documents.enron, a major energy trading concern, has filed for bankruptcy protectionfollowing the disclosure that it misstated its earnings by hundreds ofmillions of dollars.pg&e, the only supplier lockyer has sued, blamed its woes on a california law that left it unable to collect the full price of electricityfrom its customers.lockyer's disclosure that he hasn't discovered criminal conduct, includingno evidence of a conspiracy to fix prices, comes nearly a year after he saidhe wanted to jail kenneth lay, enron's chairman."^Energy^0
+"""still, the city of san francisco has accused  energy suppliers ofmanipulating prices in a suit that is pending in san diego county superiorcourt.that suit alleges the suppliers manipulated supplies to keep prices high.san francisco deputy city attorney mark slavin said the city doesn't haveproof of those allegations, but would uncover them as the lawsuit proceedsin a process known as discovery."^Energy^0
+"""we think that the discovery process will uncover anticompetitive behavior,""slavin said.the energy suppliers have denied the allegations.a california legislative committee also investigating a spike in wholesaleenergy costs has served additional subpoenas on enron officials.the senate select committee to investigate price manipulation in thewholesale energy market summoned enron officials to appear for depositionsregarding destruction of documents."^Energy^0
+"in the interview, the attorneygeneral did mention enron by name, saying ""we're still looking at the energyovercharges,"" and he accused enron of withholding documents.enron, a major energy trading concern, has filed for bankruptcy protectionfollowing the disclosure that it misstated its earnings by hundreds ofmillions of dollars.pg&e, the only supplier lockyer has sued, blamed its woes on a california law that left it unable to collect the full price of electricityfrom its customers.lockyer's disclosure that he hasn't discovered criminal conduct, includingno evidence of a conspiracy to fix prices, comes nearly a year after he saidhe wanted to jail kenneth lay, enron's chairman."^Finance^0
+january ,  dow jones newswirescalif attorney genl says likely to file more energy suitsdow jones newswiressan francisco (ap)--california attorney general bill lockyer said wednesdayhe is likely to file more unfair business practice lawsuits against energysuppliers he thinks overcharged for electricity.but lockyer, in a telephone interview, said after a yearlong investigationhe has found no criminal wrongdoing by any energy suppliers.^Legal^0
+"""still, the city of san francisco has accused  energy suppliers ofmanipulating prices in a suit that is pending in san diego county superiorcourt.that suit alleges the suppliers manipulated supplies to keep prices high.san francisco deputy city attorney mark slavin said the city doesn't haveproof of those allegations, but would uncover them as the lawsuit proceedsin a process known as discovery."^Legal^0
+"""still, the city of san francisco has accused  energy suppliers ofmanipulating prices in a suit that is pending in san diego county superiorcourt.that suit alleges the suppliers manipulated supplies to keep prices high.san francisco deputy city attorney mark slavin said the city doesn't haveproof of those allegations, but would uncover them as the lawsuit proceedsin a process known as discovery."^Legal^0
+"""'on wednesday, lockyer declared the statement ""rhetorical excess,"" adding,""so far...we haven't found criminal behavior associated with pricingpolicies."^Statement^0
+i just heard from chris lue, ubs hr, regarding the ubs new hire paperwork.^Collaborators^0
+phase iib planning standards (ttc and atc)the phase iib standards (ttc and atc) were approved by the market interface committee at its january -,  meeting and by the planning committee by mail ballot on january , .^Power scheduling task^0
+phase iib planning standards (cbm and trm)the phase iib standards (cbm and trm) were approved by the market interface committee at its january -,  meeting and by the planning committee by mail ballot on january , .^Power scheduling task^0
+mine is all done, whiz quiz completed and paperwork given to gabriellethanks.does this mean that the final stuff is done and we are all locked in for ubs?^Collaborators^0
+i am going to leave here around noon again ( such a slave ) and go home and work on packing.^Power scheduling task^-1
+i can meet you at work or we can leave from the house when you get there.i love you, i can't tell you how my heart leapt for joy when i saw your face again.^Power scheduling task^0
+remember: for this question,> we're not talking about the pros and cons of each business practice, but> simply identifying which ones, as currently drafted, presuppose a> particular transmission model -- be it physical, financial, or some> hybrid of the two.> > guess what?^Business^0
+after> reading my meeting notes, i'm not sure whether this was supposed to go> to the entire eswg or only to an eswg task force (bob harshbarger,> please refresh my memory on this), so i chose to err on the side of> wider dissemination.> > unless anyone out there strongly feels otherwise (and i recommend we> read the actual business practices before reaching such a conclusion), i> believe this breakdown to be accurate enough to facilitate discussion.> i suggest we proceed with our strategem of organizing eswg conference> calls &/or meetings on the business practices (of course, at our> chairman's discretion) in advance of the corresponding esc conference> calls, now that we know the esc's game plan.> > in case of questions, you can reach me by replying to this e-mail or at> () -.> > sincerely,> john hormozi, ladwp > >^Business^0
+> > at last week's wscc electronic scheduling work group meeting (which> followed the esc meeting), i promised to reproduce my breakdown lists> (that i handed to mike on my way out the door) and forward them to you> for your perusal.^Power scheduling task^0
+> > at last week's wscc electronic scheduling work group meeting (which> followed the esc meeting), i promised to reproduce my breakdown lists> (that i handed to mike on my way out the door) and forward them to you> for your perusal.^Power scheduling task^0
+> > at last week's wscc electronic scheduling work group meeting (which> followed the esc meeting), i promised to reproduce my breakdown lists> (that i handed to mike on my way out the door) and forward them to you> for your perusal.^Power scheduling task^0
+forward this to your friends and coleauges who are starting to wonder if you experimented on small children while at enron.gaccould enron's business model actually work?january ,  by daniel altman is enron (news/quote)'s business model still a good one?with fuzzy financing and arcane accounting stripped away,the answer may be yes.^Business^-1
+another company that sees continued value in the enronapproach is ubs warburg, the swiss investment bank, whichbought enron's electricity and gas trading business inbankruptcy proceedings and plans to restart them under itsown brand.^Business^-1
+"""enron failed because they were scamming, but the basicvirtual market part was fine,"" said dale kutnick, chiefexecutive and research director of the meta group(news/quote), an information technology consultancy."^Company^-1
+had enron stuck to those practices, mr. kutnick said, itmight still survive today.^Company^-1
+enron also betrayed its success, mr. launer said, bythrowing money at ventures that failed to generate cashflow.^Company^-1
+"""the fact that enron became a dot-com,financed itself like a dot-com, and then suffered a demiselike a dot-com,"" he said, ""is one of the central parts ofthis story."""^Company^-1
+but enron's failed attempts to expand its online tradingsystem to products beyond electricity and natural gas mightnot rule out future, similar endeavors.^Company^-1
+enron traded contracts for electricity and natural gas and,later, other products like rights to high-speedtelecommunications networks and financial hedges againstchanges in the weather.^Company^0
+reliant energy (news/quote) is one of several companiesthat followed enron in offering online exchanges forelectricity and natural gas.^Energy^0
+"""everybody got gas, everybody got power, and prices stayedbasically the same,"" mr. perkins said."^Energy^0
+robert l. mcdonald, a professor of finance at northwestern,advised enron on the use of derivatives from  to .he said the company needed advanced financial tools toprice its derivatives, which specified energy products tobe delivered at various times and sites while demand wasuncertain.^Energy^0
+he noted that the deregulation of electricity andnatural gas led to a long period during which the marketfor energy products and their derivatives evolved.^Energy^0
+another company that sees continued value in the enronapproach is ubs warburg, the swiss investment bank, whichbought enron's electricity and gas trading business inbankruptcy proceedings and plans to restart them under itsown brand.^Company^1
+"peter tufano, a professor at the harvard business schoolwho studied enron, said the company had been using whatwould be considered ""best practices"" for using derivativesby any ""serious financial firm"" in the early 's."^Company^1
+"""we're confident we can re-establish the business,"" davidwalker, a ubs warburg spokesman, said."^Business^1
+similarities between ubs warburg's financial derivativesbusiness and enron's trading of energy contracts were onefactor that made the deal appealing, mr. walker said.^Business^1
+another company that sees continued value in the enronapproach is ubs warburg, the swiss investment bank, whichbought enron's electricity and gas trading business inbankruptcy proceedings and plans to restart them under itsown brand.^Collaborators^1
+"""we're confident we can re-establish the business,"" davidwalker, a ubs warburg spokesman, said."^Collaborators^1
+similarities between ubs warburg's financial derivativesbusiness and enron's trading of energy contracts were onefactor that made the deal appealing, mr. walker said.^Collaborators^1
+because of enron's technological advantage, mr. kutnickpredicted, ubs would have little difficulty regainingenron's market share.^Collaborators^1
+another company that sees continued value in the enronapproach is ubs warburg, the swiss investment bank, whichbought enron's electricity and gas trading business inbankruptcy proceedings and plans to restart them under itsown brand.^Company^1
+"peter tufano, a professor at the harvard business schoolwho studied enron, said the company had been using whatwould be considered ""best practices"" for using derivativesby any ""serious financial firm"" in the early 's."^Company^1
+i love you and will see you this after noon.don't work my man too hard, but i will rub your feet when you get home if you do!love,cf^Power scheduling task^-1
+"at the esc meeting, i was looking past the linkage statementabout these two bps, instead focusing on the fact that bp  is really an""oasis"" practice while bp  is about energy scheduling."^Energy^0
+"at the esc meeting, i was looking past the linkage statementabout these two bps, instead focusing on the fact that bp  is really an""oasis"" practice while bp  is about energy scheduling."^Power scheduling task^0
+"at the esc meeting, i was looking past the linkage statementabout these two bps, instead focusing on the fact that bp  is really an""oasis"" practice while bp  is about energy scheduling."^Power scheduling task^0
+"both of these bps give you a choicebetween path and flowgate models (and the more granular the flowgatemodel, the closer you get to a purely financial transmission market), sohow would you feel about calling both of them ""model-independent""?bp  discusses fragmentary scheduling (i.e., letting a group ofentities in the transaction chain submit pieces of a schedule which,when pieced together, form a complete and continuous schedule)."^Power scheduling task^0
+as you know, enron has entered into an agreement with ubs warburg for the sale of netco, enron's wholesale gas and power trading organization.^Collaborators^0
+as you know, enron has entered into an agreement with ubs warburg for the sale of netco, enron's wholesale gas and power trading organization.^Energy^0
+steve is the managing partner of zolfo cooper, a corporate recovery and crisis management firm with more than  years experience leading companies through operational and financial reorganizations.steve and his firm will work with members of enron's current management to develop and implement a comprehensive plan to restructure the company and emerge from bankruptcy.^Company^1
+we want to thank greg and the netco employees joining ubs for their contributions to enron and wish them great success going forward.in addition to engaging steve, enron has formed an office of the chief executive.^Collaborators^1
+this is a positive sign that the committee believes enron will provide greater value as a viable ongoing business.the enron board of directors has approved stephen cooper as interim ceo and chief restructuring officer.^Company^1
+steve is the managing partner of zolfo cooper, a corporate recovery and crisis management firm with more than  years experience leading companies through operational and financial reorganizations.steve and his firm will work with members of enron's current management to develop and implement a comprehensive plan to restructure the company and emerge from bankruptcy.^Company^1
+lay has not just ruined the company but my mood as well.^Company^-1
+If anyone ever asks me why there are any discrepancies in the trade sheets or statements I could wring their head off.^Statement^-1
+lay has not just ruined the company but my mood as well.^Boss^-1
+today i am tying out our february positions with the traders so that they can pre-pay their trades for scheduling feb .^Power scheduling task^0
+today i am tying out our february positions with the traders so that they can pre-pay their trades for scheduling feb .^Business^0
+those of you who know tarcy will want to know that he passed away last night after suffering an aortic aneurysm at work.^Power scheduling task^0
+enron employees may find the current circumstances stressful.^Company^-1
+we want to remind you that enron's employee assistance program (eap) is still available and currently offering services to assist you and your family.group discussions                                                                                                                                                 beginning this week, enron's eap provider, innovative resources group, will be facilitating group discussions for employees who are interested in attending.^Company^0
+to schedule an appointment or speak with a counselor, please call the onsite office at -- or the -hour number at ---.informational brochuresadditional information about eap programs will be available in the body shop, the health center on the third floor of enron center north and soon in the common kitchen areas on all floors of the enron buildings.websitesthe following links may also provide helpful information:www.stress.org -- this is the website of the american institute of stress.^Health^0
+the site provides general information on stress management and links to other related sites.www.wellnessjunction.com -- this website has been developed by health resources publishing and provides targeted information on trends in wellness and health promotion.^Health^0
+going forward beyond february, i am not sure if ubs warburg will pay for parking/bus/tri-met, but i will let you know if i hear something.^Collaborators^0
+as noted in previous emails from julie, parking will be paid by enron up to $ per month for each employee, and employees make their own parking arrangements.^Company^0
+many employees here at enron knew cliff baxter well and were inspired by his spirit and his dedication to his family and to enron.^Company^0
+i agree with your e-mail for cob contracts.^Business^0
+in order for ubs warburg to timely process your paycheck, i am requesting that all employee's accepting offers return any outstanding forms to my new desk location at   on the th floor of ecs (look for the hamburg flag) by noon this friday  //.^Collaborators^0
+please attend a meeting at pm cst to coordinate transfer of scheduling of estate contracts from ubs staff to estate staff.^Power scheduling task^0
+please attend a meeting at pm cst to coordinate transfer of scheduling of estate contracts from ubs staff to estate staff.^Business^0
+please attend a meeting at pm cst to coordinate transfer of scheduling of estate contracts from ubs staff to estate staff.^Power scheduling task^0
+Things have been a mess this year at work.^Power scheduling task^-1
+enron is a failure, lay is a failure and he has dragged us all down with him.^Company^-1
+I’m inevitably stuck here still doing scheduling and wondering if my name could stay out of all of these.^Power scheduling task^-1
+enron is a failure, lay is a failure and he has dragged us all down with him.^Boss^-1
+next time you work a day shift, call me and we will go have coffee and iwill give you all the sordid details of my divorce and my now nearly  week stand.^Power scheduling task^0
+i =am hopeful that they will designate a lead person in portland to coordinate= the power procurement and delivery efforts.as most of you know, the physical separation between ubs warburg and enron =has already begun.^Collaborators^-1
+it has been a distinct honor to =work with each and every one of you.regards,tim^Boss^0
+it has taken us nearly a week to sort through= who will be part of the ubs warburg team and who continue with enron.^Collaborators^0
+people who will continue to work for enron will be loca=ted on the th floor, while ubs warburg will occoupy the rd floor.^Collaborators^0
+whether you are going to ubs, remai=ning with enron, or leaving the company, i wish everyone who worked on this= team the best in their future endeavors.^Collaborators^0
+it has taken us nearly a week to sort through= who will be part of the ubs warburg team and who continue with enron.^Company^0
+it is no=t entirely clear to me right now what the management team for west power lo=oks like for the enron estate now.^Energy^0
+the second is the disposition of our west power co=mmodity positions.^Energy^0
+i =am hopeful that they will designate a lead person in portland to coordinate= the power procurement and delivery efforts.as most of you know, the physical separation between ubs warburg and enron =has already begun.^Energy^0
+people who will continue to work for enron will be loca=ted on the th floor, while ubs warburg will occoupy the rd floor.^Business^0
+tim,i just want to tell you how much i respect and admire how you have handled this situation.^Boss^1
+after all, they have bought enron electricity and gas trading business in bankruptcy proceedings and plan to restart them under its own brand.^Company^-1
+after all, they have bought enron electricity and gas trading business in bankruptcy proceedings and plan to restart them under its own brand.^Business^-1
+lay has left many of the traders jobless and i can’t help but imagine that if a wretched man like lay might exist in other places I go to.^Business^-1
+what if I get involved in another bloody business which entirely turns out to be another scam.^Business^-1
+lay has left many of the traders jobless and i can’t help but imagine that if a wretched man like lay might exist in other places I go to.^Boss^-1
+anyways, i’m wondering if I my decision to go to ubs and be still a part of all of this is the best decision.^Collaborators^0
+just so there's no confusion: i, too, have accepted a position with ubs war=burg to be a part of its regulatory affairs team.alan comnes^Collaborators^0
+finally, it was suggested that a general statement be put in theapplicability section that if  is superceded, a new rule may be needed onthis bp.one of the suggestions was that you need to know what your products arebefore you can determine the timing issues.^Statement^0
+we are going to plan on being there for the enron schedulers, until they are ready to fly solo^Company^0
+i have been told today that these folks will have to do all of our scheduling as of monday, they are being trained today but will have to have working logins patterned after donald robinson by the end of business today.serena bishop ( i do not know what she has access to, she was the california scheduler)mike purcell (already has access to some things, but please check his access)if this cannot be done, please call murray o'neil asap.^Power scheduling task^-1
+i have been told today that these folks will have to do all of our scheduling as of monday, they are being trained today but will have to have working logins patterned after donald robinson by the end of business today.serena bishop ( i do not know what she has access to, she was the california scheduler)mike purcell (already has access to some things, but please check his access)if this cannot be done, please call murray o'neil asap.^Business^0
+good morning,i need new logins created for the following peopleserena_bishopserena.bishop@enron.compw: welcomemike_purcellmike.purcell@enron.compw: welcomebacki need the following logins deleted:lisa gangsusie wilsonstacy runswickwithin a couple of weeks, most of the enron folks will no longer be active, and i will have no access to the system.^Company^-1
+: meeting is delayed until further notice.^Power scheduling task^0
+sounds like what i indicated in the meeting is occuring and ubs will manage the contracts.regards,mo.^Collaborators^1
+re the jan th nerc/naesb mtg in dc:background:nerc is in discussions with the north american energy standards board(naesb, formerly gisb) and others on any needed changes to either naesb orwesm for determining how standards should be established for the wholesaleelectric quadrant of the naesb organization.^Energy^0
+this way anyone on the ubs team could use them and each person does not need their own id.^Collaborators^0
+these logins are to allw the ubs schedulers to continue to perform for us after there login is converted to the ubs system.^Collaborators^0
+Gonna play hooky at work I mean its not my headache might as well not disclose it.^Power scheduling task^-1
+It is high time you let go of the company.^Company^-1
+individual logins are much more preferable.the ubs schedulers aredonald robinsondiane cutsforthcara freeland^Collaborators^0
+work is shaping up to be a real snooze-fest.^Power scheduling task^-1
+My health is way better now all thanks to you.^Health^1
+i love getting up with you too, scurrying around the house trying to get ready for work together and being late anyway, despite our hurry-up-ed-ness.^Power scheduling task^-1
+good morning darling,do you know when the ubs paydays are?^Collaborators^0
+we are just trying to figure out what to expect.also,  i need a copy of my signed agreement with ubs, the loan folks for my new condo want it.^Collaborators^0
+good morning,i never got a copy of my ubs agreement, and amy said you have been keeping them in case something happened to the fed-ex packages?i can run up and grab it anytime.thanks,cara freeland!^Collaborators^0
+are there going to be more enron layoffs?^Company^-1
+i really haven't heard anything.. we have been so out of the loop on enron matters (conflict of interest and just really busy!!^Company^-1
+"i don't want to get bogged down in the governance issues> that dominated the esc meeting in las vegas but i agree with bob that> there needs to be some ""known"" rules about membership and participation.> but something along the esc's membership requirements and voting structure> may be appropriate."^Power scheduling task^-1
+i understand the oc's desire for the> isas to be more effective, but it shouldn't come at the cost of denying> participation to interested and affected parties.>  > i request that we add this issue to the february meeting agenda.^Power scheduling task^-1
+>  > i think you should be aware that at the meeting of the ewg at the las> vegas airport on jan , the group decided to operate without a formal> membership requirement and to allow all parties to participate and vote.^Power scheduling task^-1
+attention ubs warburg energy users:please be aware that it will begin migrations to ubsw energy this evening.^Collaborators^0
+one will work for jeff richter and chris mallory on the cash trading desk and one will work for me and mike swerzbin on the term trading desk.in short, the trading assistant helps the traders run eol markets, provides analytical support, prepares daily market summaries, reviews trade press for pertinent information, performs checkouts with brokers and counterparties, assists in pricing new deals.please send an e-mail to amy fitzpatrick by noon on tuesday expressing your interest.^Business^0
+ken lay announced today that he has resigned from enron's board of directors.^Boss^-1
+ken lay announced today that he has resigned from enron's board of directors.^Company^-1
+"""he added, ""my concern is for current and former enron employees and other stakeholders, and i feel that it is in their best interest for me to step down from the board."""^Company^-1
+anywhere work is boring haha.^Power scheduling task^-1
+Not worried about the situation happened in the company but slight feelings of discomfort you know.^Company^-1
+With the lawsuit crisis and all.^Legal^-1
+Haha work hard my sweet.^Power scheduling task^1
+Be careful of those statements it reflects the price and all.^Statement^-1
+Be careful of those statements it reflects the price and all.^Finance^-1
+Lawsuit is files against enron.^Company^-1
+lay is pretty much done for.^Boss^-1
+Its just work for you.^Power scheduling task^0
+i spoke with serena and told her how to roll scheduling forward.let me know if that doesn't do it.cf^Power scheduling task^-1
+hey, make sure you don't migrate your old last name over to ubs.^Collaborators^0
+the esc will conduct business in accordance with the new governance and bylaws at its february  meeting.^Business^0
+the esc will conduct business in accordance with the new governance and bylaws at its february  meeting.^Power scheduling task^0
+dynegy fled when enron started to collapse under an avalanche of scandal.^Company^-1
+the question now: will the conservative bank be able to impose swiss order on the rogue texas company's traders?^Company^-1
+the question now: will the conservative bank be able to impose swiss order on the rogue texas company's traders?^Business^-1
+still, ubs had good reason to go for a deal that gave it % of future pretax profits for a pledge only to pay the salaries of  enron employees.^Company^-1
+obviously, the enron name is mud, and getting people to trade with the company will be difficult enough.^Company^-1
+obviously, the enron name is mud, and getting people to trade with the company will be difficult enough.^Company^-1
+but managing enron's swaggering traders -- its core asset -- could turn out to be even harder.^Company^-1
+but managing enron's swaggering traders -- its core asset -- could turn out to be even harder.^Business^-1
+enron may be on its last legs, but its masters-of-the-universe culture lives on, say insiders.^Company^-1
+competitors doubt that people who earned as much as $ million a year in the freewheeling, high-risk enron culture will be grateful to become a small piece of ubs's massive fixed-income business.^Company^-1
+ubs says it's not worried about rogue traders.^Business^-1
+analysts estimate that enron was willing to put as much as $ million at risk on a trade, vs. $.^Company^-1
+``entering into energy trading does not mean extending our appetite for risk,'' says wuffli.^Energy^-1
+``even after going down in flames, a lot of these people have undiminished confidence in their ability,'' says a former enron trader who asked not to be named.^Company^0
+although many have signed contracts with ubs that prevent them from leaving enron for an undisclosed period, ``they're all exploring their options,'' says one banker privately.^Company^0
+although many have signed contracts with ubs that prevent them from leaving enron for an undisclosed period, ``they're all exploring their options,'' says one banker privately.^Business^0
+although many have signed contracts with ubs that prevent them from leaving enron for an undisclosed period, ``they're all exploring their options,'' says one banker privately.^Collaborators^0
+indeed, some traders are talking about trying to buy the trading unit back from ubs after it gets going again.^Collaborators^0
+indeed, some traders are talking about trying to buy the trading unit back from ubs after it gets going again.^Business^0
+``we're confident in the people we have hired,'' says michael hutchins, global co-head of credit fixed income at ubs warburg.^Collaborators^0
+for the scheme to work, however, ubs must persuade enron's traders to accept its risk-management practices.^Power scheduling task^0
+for the scheme to work, however, ubs must persuade enron's traders to accept its risk-management practices.^Company^0
+for the scheme to work, however, ubs must persuade enron's traders to accept its risk-management practices.^Business^0
+for the scheme to work, however, ubs must persuade enron's traders to accept its risk-management practices.^Collaborators^0
+million at dynegy or $ million at duke energy.^Energy^0
+ubs warburg is willing to put up to $ million at risk in all of its deals with a single trading partner, but insiders says its energy traders won't be allowed to risk ``anything like that'' on a single trade.^Collaborators^0
+ubs warburg is willing to put up to $ million at risk in all of its deals with a single trading partner, but insiders says its energy traders won't be allowed to risk ``anything like that'' on a single trade.^Business^0
+enron's gas and electricity trading actually seems to have made money.^Company^1
+other bankers who checked it out estimate the trading operations racked up $ billion in pretax profits over the past two years [see bw, //, ``enron: how good an energy trader?''].^Company^1
+other bankers who checked it out estimate the trading operations racked up $ billion in pretax profits over the past two years [see bw, //, ``enron: how good an energy trader?''].^Energy^1
+still, ubs had good reason to go for a deal that gave it % of future pretax profits for a pledge only to pay the salaries of  enron employees.^Collaborators^1
+competitors doubt that people who earned as much as $ million a year in the freewheeling, high-risk enron culture will be grateful to become a small piece of ubs's massive fixed-income business.^Business^1
+competitors doubt that people who earned as much as $ million a year in the freewheeling, high-risk enron culture will be grateful to become a small piece of ubs's massive fixed-income business.^Collaborators^1
+ubs says it's not worried about rogue traders.^Collaborators^1
+and that will be tough: one reason enron's traders made so much is that they took big risks.^Company^1
+and that will be tough: one reason enron's traders made so much is that they took big risks.^Business^1
+we look forward to working along side each of you in the coming days.david oxleyhead, human resources____________________________________________________________________access cardsthere will be a two-day transition for the new ubs warburg access cards.^Collaborators^0
+i was wondering if you could change the first sentence in my letter of recommendation because it talks about fmla leave and the dates i worked at enron, which i have on my resume, but i'd rather they didn't know that i have a little one because i don't want them to judge me by that.. or think i'll be a slacker because i won't, and i already have the same babysitter set up and ready to go.^Company^0

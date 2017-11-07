@@ -1,0 +1,29 @@
+﻿Date,Filename,From,Sentence_ID,Sentence,Aspect_term,AspectTermSentiment,Aspect_category,AspectCategorySentiment
+18-12-2001 6.41,special_5%2E,craig_vinson@cmicro.com,4,this e-mail is the property of craig and is written for the the hottest lady at enron.,enron,0,Company,0
+19-12-2001 6.46,new_v2_special_4%2E,craig_vinson@cmicro.com,1,not much work to do with the deals closing off.,work,-1,Power scheduling task,-1
+19-12-2001 6.46,new_v2_special_4%2E,craig_vinson@cmicro.com,1,not much work to do with the deals closing off.,deals,-1,Business,-1
+19-12-2001 6.46,new_v2_special_4%2E,craig_vinson@cmicro.com,2,lot of people have left the company and the remaining some of us are trying to work on the few contracts left.,work,-1,Power scheduling task,-1
+19-12-2001 6.46,new_v2_special_4%2E,craig_vinson@cmicro.com,2,lot of people have left the company and the remaining some of us are trying to work on the few contracts left.,contracts,-1,Business,-1
+19-12-2001 6.46,new_v2_special_4%2E,craig_vinson@cmicro.com,2,lot of people have left the company and the remaining some of us are trying to work on the few contracts left.,company,-1,Company,-1
+19-12-2001 6.46,new_v2_special_4%2E,craig_vinson@cmicro.com,3,This unusual work pattern is adding up to my stress with the damp atmosphere  here and all i can think about are those beautiful eyes of yours which could comfort me.i just love the way you look at me.,work,-1,Power scheduling task,-1
+08-01-2002 9.46,new_v2_e14%2E,craigv@cmicro.com,1,The company failing is out of your hand.,company,-1,Company,-1
+08-01-2002 9.46,new_v2_e14%2E,craigv@cmicro.com,2,Don’t stress yourself about the scheduling and enron.,enron,-1,Company,-1
+08-01-2002 9.46,new_v2_e14%2E,craigv@cmicro.com,2,Don’t stress yourself about the scheduling and enron.,scheduling,-1,Power scheduling task,-1
+08-01-2002 9.46,new_v2_e14%2E,craigv@cmicro.com,0,do not worry sweetheart please take care of your health first.,health,0,Health,0
+12-01-2002 20.45,new_v2_e16%2E,craig_vinson@cmicro.com,2,The profit and loss statements also will reflect this so be carefull.,statements,-1,Statement,-1
+12-01-2002 20.45,new_v2_e16%2E,craig_vinson@cmicro.com,3,Stick to your work but don’t get involved too much,work,-1,Power scheduling task,-1
+12-01-2002 20.45,new_v2_e16%2E,craig_vinson@cmicro.com,1,You have been supervising the scheduling task for a longtime.,scheduling,0,Power scheduling task,0
+16-01-2002 10.32,new_v2_e08%2E,craigv@cmicro.com,1,it’s a deep wound for a company named as the most innovative company of the year.,company,-1,Company,-1
+16-01-2002 10.32,new_v2_e08%2E,craigv@cmicro.com,2,enron had high stock prices early last year now the stocks have gone down this low?,enron,-1,Company,-1
+16-01-2002 10.32,new_v2_e08%2E,craigv@cmicro.com,3,it could take a negative impact on the investors trust towards the company.,company,-1,Company,-1
+2002-01-23 08.21.00,deleted_items_160%2E,craig_vinson@cmicro.com,3,i love you.i hope your meeting was a good one.,meeting,1,Power scheduling task,1
+2002-01-28 07.48.00,deleted_items_121%2E,craig_vinson@cmicro.com,4,traders playing nice today?,traders,0,Business,0
+2002-01-28 07.48.00,deleted_items_121%2E,craig_vinson@cmicro.com,2,i showed her the pics.what's the scoop at work?,work,0,Power scheduling task,0
+01-02-2002 19.30,new_v2_e18%2E,craig_vinson@cmicro.com,2,It is high time you let go of the company.,company,-1,Company,-1
+2002-02-04 08.00.00,deleted_items_30%2E,craig_vinson@cmicro.com,7,"i love getting up with you too, scurrying around the house trying to get ready for work together and being late anyway, despite our hurry-up-ed-ness.",work,-1,Power scheduling task,-1
+2002-02-05 09.44.00,deleted_items_11%2E,craig_vinson@cmicro.com,2,work is pretty boring today.,work,-1,Power scheduling task,-1
+05-02-2002 9.50,new_v3_e21%2E,craig_vinson@cmicro.com,1,Be careful of those statements it reflects the price and all.,statements,-1,Statement,-1
+05-02-2002 9.50,new_v3_e21%2E,craig_vinson@cmicro.com,1,Be careful of those statements it reflects the price and all.,price,-1,Finance,-1
+05-02-2002 9.50,new_v3_e21%2E,craig_vinson@cmicro.com,5,Lawsuit is files against enron.,enron,-1,Company,-1
+05-02-2002 9.50,new_v3_e21%2E,craig_vinson@cmicro.com,6,lay is pretty much done for.,lay,-1,Boss,-1
+05-02-2002 9.50,new_v3_e21%2E,craig_vinson@cmicro.com,3,Its just work for you.,work,0,Power scheduling task,0

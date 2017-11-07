@@ -1,0 +1,38 @@
+import os
+# from nltk.tokenize import word_tokenize
+import pandas as pd
+import nltk
+import re
+from string import punctuation
+# from email_process import *
+
+# Aspect_data = pd.read_csv('../data/Selected_category_up_100.csv')
+Aspect_data = pd.read_excel('../../../../data/Aspect_list_oct23_v2(1).xlsx')
+aspect_term = set(Aspect_data.AspectTerm)
+
+keys = Aspect_data.AspectTerm
+values = Aspect_data.AspectCategory
+Aspect_cat_dict = dict(zip(keys, values))
+
+emails_folder ='../../../../data/cleaned crandell-s'
+Namelist_df = pd.read_csv('email_list.csv')
+
+fnames = [os.path.join(emails_folder, str(file)) for file in Namelist_df.Filename]
+
+with open('cara_sentiment.txt', 'w') as out:
+    for file in fnames:
+        with open(file) as f:
+            doc = f.read()
+            sentences = nltk.sent_tokenize(doc)
+            # sentences = re.split(r'(?<!\w\.\w.)(?<![A-Z][a-z]\.)(?<=\.|\?)\s',  doc)
+            # for sentence in sentences :
+            #     if re.search('[^ei][.?!][^ge]', sentence):
+            #         print sentence
+
+                    # raw_input()
+            for i, sen in enumerate(sentences):
+                words = nltk.word_tokenize(sen)
+                words = set(words)
+                for word in words:
+                    if word in aspect_term:
+                        out.write(os.path.basename(file) +'^'+ str(i) +'^'+ sen +'^'+ word +'^'+ Aspect_cat_dict[word]+ '\n')

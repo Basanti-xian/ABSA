@@ -1,0 +1,204 @@
+﻿Date,Filename,From,Sentence_ID,Sentence,Aspect_term,AspectTermSentiment,Aspect_category,AspectCategorySentiment
+2001-06-09 10.40.00,new_v5_31,cara.semperger@enron.com,0,I think ubs is  good interms of finance ,ubs,1,Collaborators,1
+2001-06-10 10.40.00,new_v5_32,cara.semperger@enron.com,0,ubs has very powerful clients and its global vlaue is large,ubs,1,Collaborators,1
+2001-07-09 10.40.00,deleted_items_353%2E,cara.semperger@enron.com,26,"also, many rows that were flagged for confirmation were not imported, and i cannot find an error log to help understand why deals were not imported to path confirmation.when the path confirmation task was finished,  the application simply froze.",deals,-1,Business,-1
+2001-07-09 10.40.00,deleted_items_353%2E,cara.semperger@enron.com,0,"good morning,my target testing date today is june th,  i am running in test p in local enpower using actual data from our scheduling sheets re-arranged to meet the new guidelines.the daily deals i coded x in columns j and n,  the month long bookouts and bom bookouts i coded r. what worked:i was able to retrieve my saved workspace with all data intact.",deals,0,Business,0
+2001-07-09 10.40.00,deleted_items_353%2E,cara.semperger@enron.com,2,a check of deals actually scheduled vs. build route results showed that all deals were extracted correctly from enpower.,deals,0,Business,0
+2001-07-09 10.40.00,deleted_items_353%2E,cara.semperger@enron.com,8,"multiple sorting will contunue to be done in excel, or we can do a series of single sorts in the psw to acheive the same result.routing deals: will had deleted all routes for june th, starting me with a clean slate.",deals,0,Business,0
+2001-07-09 10.40.00,deleted_items_353%2E,cara.semperger@enron.com,20,the deals that were not routed appear to be due to a user error of deal number duplication in the sheet.,deals,0,Business,0
+2001-07-09 10.40.00,deleted_items_353%2E,cara.semperger@enron.com,19,"most routing was done, and a spot check of deals shows that they were routed properly.",deals,1,Business,1
+2001-07-09 10.40.00,deleted_items_353%2E,cara.semperger@enron.com,23,"this routing was very easy, a large point with on peak non shaped deals only.things i did not expect that i liked:when i highlight a group of cells in build route, it stays highlighted when i move up to the scheduling sheet to highlight a comparison group of cells.",deals,1,Business,1
+2001-07-09 10.40.00,deleted_items_353%2E,cara.semperger@enron.com,25,this current speed will not be sufficient to work in production.,production,-1,Energy,-1
+2001-07-09 10.40.00,deleted_items_353%2E,cara.semperger@enron.com,6,the improvement we are expecting to see is the app should not duplicate deal strips on dates that have no physical power flow.,power,0,Energy,0
+2001-07-09 10.40.00,deleted_items_353%2E,cara.semperger@enron.com,15,"i had difficulty checking the routing results, as i kept getting bde errors in scheduling after routing had occurred (local enpower).",scheduling,-1,Power scheduling task,-1
+2001-07-09 10.40.00,deleted_items_353%2E,cara.semperger@enron.com,25,this current speed will not be sufficient to work in production.,work,-1,Power scheduling task,-1
+2001-07-09 10.40.00,deleted_items_353%2E,cara.semperger@enron.com,0,"good morning,my target testing date today is june th,  i am running in test p in local enpower using actual data from our scheduling sheets re-arranged to meet the new guidelines.the daily deals i coded x in columns j and n,  the month long bookouts and bom bookouts i coded r. what worked:i was able to retrieve my saved workspace with all data intact.",scheduling,0,Power scheduling task,0
+2001-07-09 10.40.00,deleted_items_353%2E,cara.semperger@enron.com,7,"(west light load currently does this in start view, but not active view)navigating around the scheduling sheet itself i was able to accurately execute the sort function on a single criteria at a time.",scheduling,0,Power scheduling task,0
+2001-07-09 10.40.00,deleted_items_353%2E,cara.semperger@enron.com,23,"this routing was very easy, a large point with on peak non shaped deals only.things i did not expect that i liked:when i highlight a group of cells in build route, it stays highlighted when i move up to the scheduling sheet to highlight a comparison group of cells.",scheduling,0,Power scheduling task,0
+2001-07-09 10.40.00,deleted_items_353%2E,cara.semperger@enron.com,16,scheduling kept starting up in .,scheduling,1,Power scheduling task,1
+2001-07-09 10.40.00,new_v5_24,cara.semperger@enron.com,0,Thank you tim for you great help. ,tim,1,Boss,1
+2001-07-09 10.40.00,new_v5_25,cara.semperger@enron.com,0,"it is good that tim was there today, the other party was obsurd on the contracts and settlements don’t you think",tim,1,Boss,1
+2001-07-09 10.40.00,new_v5_26,cara.semperger@enron.com,0,ya and I think tim has good relationship with one of the partners ,tim,1,Boss,1
+2001-07-09 10.40.00,new_v5_27,cara.semperger@enron.com,0,haha no one would trust lay regarding the matter at hand,lay,-1,Boss,-1
+2001-07-09 10.40.00,new_v5_27,cara.semperger@enron.com,1,I mean come on lay is spouting lies we see the sheets everyday its always so misleading,lay,-1,Boss,-1
+2001-07-09 10.40.00,new_v5_28,cara.semperger@enron.com,0,I would trust tim more he has always been focused on the work,tim,1,Boss,1
+2001-07-18 9.01.00,deleted_items_325%2E,cara.semperger@enron.com,5,"i am only putting physical paths in the confirm upload, which reduces the data set dramatically.i have routed midc for /, the bpa deals left unrouted are .",deals,0,Business,0
+2001-07-18 9.01.00,deleted_items_325%2E,cara.semperger@enron.com,7,"this type of deal will always be done, and there are other deals that get moved in the southwest as well.",deals,0,Business,0
+2001-07-18 9.01.00,deleted_items_325%2E,cara.semperger@enron.com,8,"there is a walc transmission deal that is at pinnacle peak, and is changed daily in scheduling to west wing.the deals missing dashes seem to all be the same.",deals,0,Business,0
+2001-07-31 8.39.00,deleted_items_310%2E,cara.semperger@enron.com,9,"daily summary is a current function; creating data that i use to report our volumes to our traders, belden, and lavorato.",traders,0,Business,0
+2001-07-31 8.39.00,deleted_items_310%2E,cara.semperger@enron.com,10,"this must be done for production, as they ask me for this often.",production,0,Energy,0
+2001-07-31 8.39.00,deleted_items_310%2E,cara.semperger@enron.com,28,we would like the delivery point selection to mimic the same functionality as the delivery point selection we see in scheduling.,scheduling,0,Power scheduling task,0
+2001-08-02 12.04.00,calender_6%2E,cara.semperger@enron.com,0,"remember, you are giving this meeting!",meeting,0,Power scheduling task,0
+2001-08-03 12.52.00,new_sent_items_41%2E,cara.semperger@enron.com,0,"tim,i just want to tell you how much i respect and admire how you have handled this situation.",tim,1,Boss,1
+2001-11-02 8.48.00,new_v5_31,cara.semperger@enron.com,0,darling I hate it so much here lay destroyed this company for good so frustrating!!,lay,-1,Boss,-1
+2001-11-04 8.48.00,new_v5_30,cara.semperger@enron.com,0,in the last meeting I heard lay was shouting at one of the investors,lay,-1,Boss,-1
+2001-11-08 13.54.00,sent_items_271%2E,cara.semperger@enron.com,2,"i also filled her in on our situation as a company, she had no idea.",company,0,Company,0
+2001-11-08 13.54.00,sent_items_271%2E,cara.semperger@enron.com,0,"susie and i talked, she and i agreed that she would work - m-th,  and - on fridays.",work,1,Power scheduling task,1
+2001-11-09 11.15.00,sent_items_265%2E,cara.semperger@enron.com,6,"billion dollars, so i am the one buying enron.my new company is called  ""cara-land"".",company,1,Company,1
+2001-11-09 15.58.00,sent_items_260%2E,cara.semperger@enron.com,0,"good eveningi ran a master download for december  so that over the next few days i can test the overwriting fix, and found two deals that are  hour deals, show scheduled hours of -, but are segregated with the ""off peak"" deals.",deals,0,Business,0
+2001-11-13 10.39.00,sent_items_257%2E,cara.semperger@enron.com,0,"no, i will just make a note of these two strange deals",deals,0,Business,0
+2001-11-13 16.38.00,sent_items_253%2E,cara.semperger@enron.com,1,"any change to it must go thru me.the change in the build route for dart deals is a minor one, a check box on the user interface.",deals,0,Business,0
+2001-11-13 16.38.00,sent_items_253%2E,cara.semperger@enron.com,2,"real time can run the report to show only dart deals, and they would be captured that way.please see me before any changes to the build route are discussed.cara",deals,0,Business,0
+2001-11-15 17.25.00,sent_items_230%2E,cara.semperger@enron.com,0,i am suprised at how little the bare bones employee and the full package employee trips differ in price!i wanna do the  grand package.,price,-1,Finance,-1
+2001-11-16 6.54.00,sent_items_227%2E,cara.semperger@enron.com,0,mike tully is going to work on this with you today.,work,0,Power scheduling task,0
+2001-11-19 8.39.00,sent_items_219%2E,cara.semperger@enron.com,0,"good morning,here are the direct bookouts i have matched up along with my options i only show open cob contracts on the llhgive me a call when you are ready to go.",contracts,0,Business,0
+2001-11-19 8.40.00,sent_items_218%2E,cara.semperger@enron.com,0,"good morning,here is the bookout disposition that i have so far, along with my booking out options for the llh contracts that we have open.",contracts,0,Business,0
+2001-11-19 8.40.00,sent_items_218%2E,cara.semperger@enron.com,2,"i am only doing cob, diane will be doing midccara sempergerwest power scheduling supervisorenron north america/-",power,0,Energy,0
+2001-11-19 8.40.00,sent_items_218%2E,cara.semperger@enron.com,2,"i am only doing cob, diane will be doing midccara sempergerwest power scheduling supervisorenron north america/-",scheduling,0,Power scheduling task,0
+2001-11-21 8.49.00,sent_items_200%2E,cara.semperger@enron.com,0,"other deals is fine,build route has been selecting the hourly deals just fine, and including them in the off peak sections.",deals,1,Business,1
+2001-11-21 8.49.00,sent_items_200%2E,cara.semperger@enron.com,1,"we must be able to see these deals, as we have a great many deals with odd hours and shaped schedules.thanks,cara",deals,1,Business,1
+2001-11-26 11.30.00,sent_items_190%2E,cara.semperger@enron.com,1,"running a month long sheet from scratch is a huge problem for us, it forces us to do massive amounts of work over and over again.i need you to find out why this is happening, and let me know when it is fixed.cara",work,-1,Power scheduling task,-1
+2001-11-26 13.58.00,sent_items_186%2E,cara.semperger@enron.com,0,"we also need a box that says ""include only dart deals""please also  make absolutely sure that this is included in the psw build route, as we use it nearly exclusively now.vish knows about our problems with that.cara",deals,0,Business,0
+2001-11-27 10.02.00,sent_items_181%2E,cara.semperger@enron.com,0,"i have re-started enpower since the e-mail came out saying that the new version has been put into production.i ran the attatched sheet, and the last group of deals that i was given had old deals blended with new deals.these start on line .",deals,0,Business,0
+2001-11-27 10.23.00,sent_items_180%2E,cara.semperger@enron.com,0,"good morning,only one open contract for december left to find a sink for!",contract,1,Business,1
+2001-11-27 11.00.00,sent_items_179%2E,cara.semperger@enron.com,0,"something is broken with the new release,none of our light load deals pull in!",deals,-1,Business,-1
+2001-11-27 11.00.00,sent_items_179%2E,cara.semperger@enron.com,1,"this is priority,  why would heavy load and  hour deals pull in, but not light load deals?please see the attached sheet!we should be seeing  at palo at pge system",deals,-1,Business,-1
+2001-11-27 14.45.00,sent_items_177%2E,cara.semperger@enron.com,1,cara sempergerwest power scheduling supervisorenron north america/-,power,0,Energy,0
+2001-12-03 9.52.00,sent_items_160%2E,cara.semperger@enron.com,0,"no changes to any existing data, just adding real power losses",power,-1,Energy,-1
+2001-12-04 11.49.00,sent_items_156%2E,cara.semperger@enron.com,0,"put vending machines in where it says cows, and you have the filed business plan for my new company",business,0,Business,0
+2001-12-04 11.49.00,sent_items_156%2E,cara.semperger@enron.com,0,"put vending machines in where it says cows, and you have the filed business plan for my new company",company,0,Company,0
+2001-12-05 7.06.00,new_v2_sent_items_155%2E,cara.semperger@enron.com,1,"we are still trying to deliver on contract, and not all of our counterparties have cut us off.",contract,0,Business,-1
+2001-12-05 7.06.00,new_v2_sent_items_155%2E,cara.semperger@enron.com,1,"we are still trying to deliver on contract, and not all of our counterparties have cut us off.",counterparties,-1,Business,-1
+2001-12-05 7.06.00,new_v2_sent_items_155%2E,cara.semperger@enron.com,2,but i don’t find things going any better from here i can't imagine for the life of me why anyone would continue to do business with enron!,business,-1,Business,-1
+2001-12-05 7.06.00,new_v2_sent_items_155%2E,cara.semperger@enron.com,0,"hi sweetie, i still can't believe all of this, enron is laying off people here left and right, our traders are trying to call in favors to find jobs for as many people as possible.",traders,1,Business,1
+2001-12-05 7.06.00,new_v2_sent_items_155%2E,cara.semperger@enron.com,0,"hi sweetie, i still can't believe all of this, enron is laying off people here left and right, our traders are trying to call in favors to find jobs for as many people as possible.",enron,-1,Company,-1
+2001-12-05 7.06.00,new_v2_sent_items_155%2E,cara.semperger@enron.com,2,but i don’t find things going any better from here i can't imagine for the life of me why anyone would continue to do business with enron!,enron,-1,Company,-1
+2001-12-05 8.06.00,new_v2_sent_items_154%2E,cara.semperger@enron.com,1,most of our counterparties have stopped business with us.,business,-1,Business,-1
+2001-12-05 8.06.00,new_v2_sent_items_154%2E,cara.semperger@enron.com,1,most of our counterparties have stopped business with us.,counterparties,-1,Business,-1
+2001-12-05 8.06.00,new_v2_sent_items_154%2E,cara.semperger@enron.com,2,the profit and loss statement of december shows me this company is failing down.,company,-1,Company,-1
+2001-12-05 8.06.00,new_v2_sent_items_154%2E,cara.semperger@enron.com,4,"i am glad to see that, i felt really bad for how upset he was.he is going to go stay with his folks for a few days, they had their insurance company call and tell them that if they didn't clean up the outside of the house that they would drop them from insurance.",company,0,Company,0
+2001-12-05 8.06.00,new_v2_sent_items_154%2E,cara.semperger@enron.com,8,"i'm also thinking about moving to another company, but not sure where should i go.",company,0,Company,0
+2001-12-05 8.06.00,new_v2_sent_items_154%2E,cara.semperger@enron.com,0,"hi mom,i am still here, there is so little work that pretty much all i do is talk to people, play computer games and read e-mail.",work,-1,Power scheduling task,-1
+2001-12-05 8.06.00,new_v2_sent_items_154%2E,cara.semperger@enron.com,2,the profit and loss statement of december shows me this company is failing down.,statement,-1,Statement,-1
+2001-12-06 7.35.00,sent_items_151%2E,cara.semperger@enron.com,0,i propose that while work is so slow we have some informal tutorials from the folks who know stuff.sqlaccessexcel stuff (susie is a bona-fide expert teacher!,work,-1,Power scheduling task,-1
+2001-12-06 10.25.00,sent_items_150%2E,cara.semperger@enron.com,0,there are bpa real power losses for the th only  and some transmission only paths,power,-1,Energy,-1
+2001-12-07 9.21.00,sent_items_148%2E,cara.semperger@enron.com,0,i will be surrendering my cell phone when enron no longer wishes to pay for it,enron,-1,Company,-1
+2001-12-11 8.04.00,new_v2_sent_items_145%2E,cara.semperger@enron.com,4,only a few people left in enron that i really trust.,enron,0,Company,0
+2001-12-11 8.04.00,new_v2_sent_items_145%2E,cara.semperger@enron.com,0,"hi mom, friday was a horrible day at work, we had layoffs of about % of our office.",work,-1,Power scheduling task,-1
+2001-12-11 12.10.00,sent_items_140%2E,cara.semperger@enron.com,0,let's meet tomorrow morning about  am to let me show you all of the tools that scheduling uses.,scheduling,0,Power scheduling task,0
+2001-12-13 11.13.00,sent_items_132%2E,cara.semperger@enron.com,5,please join us if you would like.cara- (work),work,0,Power scheduling task,0
+2001-12-13 11.15.00,new_v2_sent_items_131%2E,cara.semperger@enron.com,1,:)many counterparties have already terminated deals with us it is so stressful!,deals,-1,Business,-1
+2001-12-13 11.15.00,new_v2_sent_items_131%2E,cara.semperger@enron.com,1,:)many counterparties have already terminated deals with us it is so stressful!,counterparties,-1,Business,-1
+2001-12-13 11.15.00,new_v2_sent_items_131%2E,cara.semperger@enron.com,0,"hi julie,since the stress of work is making me drink, will my liver transplant be covered by the company?",company,0,Company,0
+2001-12-13 11.15.00,new_v2_sent_items_131%2E,cara.semperger@enron.com,0,"hi julie,since the stress of work is making me drink, will my liver transplant be covered by the company?",work,-1,Power scheduling task,-1
+2001-12-14 8.31.00,sent_items_129%2E,cara.semperger@enron.com,3,"if you could use a little company, i would be game for something fun to do!",company,-1,Company,-1
+2001-12-14 8.47.00,sent_items_128%2E,cara.semperger@enron.com,4,"i am going to work very hard to come through this with dave and me as much friends as possible, so that the stress to us all will be minimized.",work,1,Power scheduling task,1
+2001-12-17 9.03.00,sent_items_115%2E,cara.semperger@enron.com,10,i got him this truck to help him with his business.,business,0,Business,0
+2001-12-17 10.39.00,sent_items_112%2E,cara.semperger@enron.com,1,"i think it would be wise.also, if you want to transfer pahio to our joint account that is fine,  i would like to have pahio.when you come up, if you want to come to work here and get the car and give me the truck keys, we can do that.",work,0,Power scheduling task,0
+2001-12-18 7.44.00,sent_items_106%2E,cara.semperger@enron.com,2,"i am keeping that one in my palm pilot so i can read it anywhere i want.i woke up thinking about you, took my bubble bath and looked at my pink toenails thinking about you, put on my lotion thinking about you, drove to work singing along with the radio to steely dan thinking about you, and am just about useless at my desk thinking about you.i really enjoyed just vegging last night.",work,0,Power scheduling task,0
+2001-12-19 7.46.00,new_v2_sent_items_104%2E,cara.semperger@enron.com,6,we’ve lost a huge number of deals and are scrambling to make the best we can out of the few contracts we hold on to and it’s been nothing short of oppressive.,contracts,-1,Business,-1
+2001-12-19 7.46.00,new_v2_sent_items_104%2E,cara.semperger@enron.com,6,we’ve lost a huge number of deals and are scrambling to make the best we can out of the few contracts we hold on to and it’s been nothing short of oppressive.,deals,-1,Business,-1
+2001-12-19 7.46.00,new_v2_sent_items_104%2E,cara.semperger@enron.com,5,"also to top it all off, things have been seemingly more difficult at work.",work,-1,Power scheduling task,-1
+2001-12-19 8.20.00,new_v2_sent_items_102%2E,cara.semperger@enron.com,4,"with the little pathetic deals we have, I can only see darkness looming ahead.",deals,-1,Business,-1
+2001-12-19 8.20.00,new_v2_sent_items_102%2E,cara.semperger@enron.com,0,"hi, i am sitting here at my desk talking contracts and energy.",contracts,0,Business,0
+2001-12-19 8.20.00,new_v2_sent_items_102%2E,cara.semperger@enron.com,2,the place once filled with the chatter of traders has now turned to gloom.,traders,0,Business,0
+2001-12-19 8.20.00,new_v2_sent_items_102%2E,cara.semperger@enron.com,1,all I can think of is how depressing enron has become.,enron,-1,Company,-1
+2001-12-19 8.20.00,new_v2_sent_items_102%2E,cara.semperger@enron.com,0,"hi, i am sitting here at my desk talking contracts and energy.",energy,0,Energy,0
+2001-12-19 8.31.00,sent_items_101%2E,cara.semperger@enron.com,0,"hi,i am sitting here at my desk talking contracts and energy, and in myhead i am thinking about kisses, caresses, and waking up with you.",contracts,-1,Business,-1
+2001-12-19 8.31.00,sent_items_101%2E,cara.semperger@enron.com,0,"hi,i am sitting here at my desk talking contracts and energy, and in myhead i am thinking about kisses, caresses, and waking up with you.",energy,-1,Energy,-1
+2001-12-19 9.01.00,sent_items_100%2E,cara.semperger@enron.com,0,"good morning,i am going into a meeting at nine for i am not sure how long, so just leave a message if you have a problem or a question.",meeting,0,Power scheduling task,0
+2001-12-19 9.40.00,sent_items_99%2E,cara.semperger@enron.com,1,"you are the only thing on my calendar after tonight, sir.call me at work, i would love to hear your voice.",work,0,Power scheduling task,0
+2001-12-19 10.15.00,sent_items_98%2E,cara.semperger@enron.com,0,"hi donald,i got a smattering of information that the big e will probably go after us contract folks that attempt to defect.",contract,-1,Business,-1
+2001-12-20 7.57.00,sent_items_94%2E,cara.semperger@enron.com,0,"good morning..........sir,i am wearing my sweatshirt and my new boots to work, so my feet are warm and i feel like i have you wrapped around me.",work,0,Power scheduling task,0
+2001-12-20 7.57.00,sent_items_94%2E,cara.semperger@enron.com,2,good natured fun dancing with the buds from work.,work,1,Power scheduling task,1
+2001-12-20 10.49.00,new_v2_sent_items_91%2E,cara.semperger@enron.com,4,just thinking of the plenty of people who lost their retirement savings when the value of their Enron stock evaporated makes me sick to the stomach.,stock,-1,Stock,-1
+2001-12-20 11.14.00,sent_items_88%2E,cara.semperger@enron.com,0,i am officially playing hooky from work tomorrow.,work,-1,Power scheduling task,-1
+2001-12-25 8.48.00,new_v5_29,cara.semperger@enron.com,0,looking at the atmosphere right now things are not good lay has left us to be doomed,lay,-1,Boss,-1
+2001-12-25 8.48.00,new_v5_29,cara.semperger@enron.com,1,lay is a complete failure,lay,-1,Boss,-1
+2001-12-27 13.37.00,new_v2_e01%2E,cara.semperger@enron.com,2,I wonder how you’re still clinging on when business at enron is terrible.,business,-1,Business,-1
+2001-12-27 13.37.00,new_v2_e01%2E,cara.semperger@enron.com,2,I wonder how you’re still clinging on when business at enron is terrible.,enron,-1,Company,-1
+2001-12-28 22.15.00,new_v2_e02%2E,cara.semperger@enron.com,1,looks like dynergy might be targetting our energy pipelines which will then be even more horrible for us.,dynergy,-1,Collaborators,-1
+2001-12-28 22.15.00,new_v2_e02%2E,cara.semperger@enron.com,1,looks like dynergy might be targetting our energy pipelines which will then be even more horrible for us.,energy,-1,Energy,-1
+2002-01-08 9.39.00,new_v2_sent_items_87%2E,cara.semperger@enron.com,3,I believe no one would want to do business with us any longer.,business,-1,Business,-1
+2002-01-08 9.39.00,new_v2_sent_items_87%2E,cara.semperger@enron.com,4,"Without the energy pipeline, how should we convince the traders that enron is reliable?",traders,-1,Business,-1
+2002-01-08 9.39.00,new_v2_sent_items_87%2E,cara.semperger@enron.com,2,It allows dynergy to acquire our pipeline and that is just dreadful news.,dynergy,-1,Collaborators,-1
+2002-01-08 9.39.00,new_v2_sent_items_87%2E,cara.semperger@enron.com,1,"anyway, have you heard that enron settled a procedural dispute with dynergy?",dynergy,1,Collaborators,1
+2002-01-08 9.39.00,new_v2_sent_items_87%2E,cara.semperger@enron.com,7,and I’m thinking ubs is a good choice for us.,ubs,1,Collaborators,1
+2002-01-08 9.39.00,new_v2_sent_items_87%2E,cara.semperger@enron.com,4,"Without the energy pipeline, how should we convince the traders that enron is reliable?",enron,-1,Company,-1
+2002-01-08 9.39.00,new_v2_sent_items_87%2E,cara.semperger@enron.com,5,I really don’t agree or buy into the rubbish that this settlement might bring enron out of the issue.,enron,-1,Company,-1
+2002-01-08 9.39.00,new_v2_sent_items_87%2E,cara.semperger@enron.com,6,i frankly believe that enron is over.,enron,-1,Company,-1
+2002-01-08 9.39.00,new_v2_sent_items_87%2E,cara.semperger@enron.com,1,"anyway, have you heard that enron settled a procedural dispute with dynergy?",enron,1,Company,1
+2002-01-08 9.39.00,new_v2_sent_items_87%2E,cara.semperger@enron.com,4,"Without the energy pipeline, how should we convince the traders that enron is reliable?",energy,-1,Energy,-1
+2002-01-08 9.45.00,new_v2_sent_items_86%2E,cara.semperger@enron.com,1,there seems to be a huge cloud of dread about the air of enron.,enron,-1,Company,-1
+2002-01-08 9.45.00,new_v2_sent_items_86%2E,cara.semperger@enron.com,0,i am at work for a few minutes and it already feels like some of the worse minutes.,work,-1,Power scheduling task,-1
+2002-01-10 13.47.00,new_v2_e03%2E,cara.semperger@enron.com,0,"hi mum, I don't want to tell you much over email as I'd rather talk but the future for enron seems dark and the stress is taking a toll on my health.",enron,-1,Company,-1
+2002-01-10 13.47.00,new_v2_e03%2E,cara.semperger@enron.com,0,"hi mum, I don't want to tell you much over email as I'd rather talk but the future for enron seems dark and the stress is taking a toll on my health.",health,-1,Health,-1
+2002-01-11 10.40.00,new_v2_e04%2E,cara.semperger@enron.com,0,"hi sweetie, I've been hearing so much rumours about lay and what a terrible person he was.",lay,-1,Boss,-1
+2002-01-11 10.40.00,new_v2_e04%2E,cara.semperger@enron.com,1,so many traders have lost their jobs because of him and I can't imagine what we have all been a part of.,traders,-1,Business,-1
+2002-01-12 20.33.00,new_v2_e05%2E,cara.semperger@enron.com,2,I don't see any point in scheduling for a company that is going down and business looks terrible for everyone around.,business,-1,Business,-1
+2002-01-12 20.33.00,new_v2_e05%2E,cara.semperger@enron.com,2,I don't see any point in scheduling for a company that is going down and business looks terrible for everyone around.,company,-1,Company,-1
+2002-01-12 20.33.00,new_v2_e05%2E,cara.semperger@enron.com,2,I don't see any point in scheduling for a company that is going down and business looks terrible for everyone around.,scheduling,-1,Power scheduling task,-1
+2002-01-12 20.33.00,new_v2_e05%2E,cara.semperger@enron.com,1,The statements so far seem not so convincing to me.,statements,-1,Statement,-1
+2002-01-12 20.40.00,new_v2_e15%2E,cara.semperger@enron.com,1,The matter regarding the stock and statements we discussed other what do you think?,statements,0,Statement,0
+2002-01-12 20.40.00,new_v2_e15%2E,cara.semperger@enron.com,1,The matter regarding the stock and statements we discussed other what do you think?,stock,0,Stock,0
+2002-01-16 10.29.00,new_v2_e07%2E,cara.semperger@enron.com,3,"figures, with the deals closing last month, the dec cash forecast was very poor failing to meet the nyse standards.",deals,-1,Business,-1
+2002-01-16 10.29.00,new_v2_e07%2E,cara.semperger@enron.com,1,things are hectic here as with the recent events going on pretty much enron is headlines everywhere.,enron,0,Company,0
+2002-01-16 10.29.00,new_v2_e07%2E,cara.semperger@enron.com,0,"hi dearie, how is work today?",work,0,Power scheduling task,0
+2002-01-16 10.29.00,new_v2_e07%2E,cara.semperger@enron.com,2,we are already delisted by nyse.,nyse,-1,Stock,-1
+2002-01-16 10.29.00,new_v2_e07%2E,cara.semperger@enron.com,3,"figures, with the deals closing last month, the dec cash forecast was very poor failing to meet the nyse standards.",nyse,-1,Stock,-1
+2002-01-16 10.40.00,new_v2_e09%2E,cara.semperger@enron.com,3,tim  is not disclosing any information either.,tim,-1,Boss,-1
+2002-01-16 10.40.00,new_v2_e09%2E,cara.semperger@enron.com,1,i mean lay is feeding us more lies.,lay,-1,Boss,-1
+2002-01-16 10.40.00,new_v2_e09%2E,cara.semperger@enron.com,4,all this makes me wanna drink but my health is so weak deary.,health,-1,Health,-1
+2002-01-17 20.10.00,new_v2_e11%2E,cara.semperger@enron.com,2,"ya, enron is pretty much headlines everywhere.",enron,-1,Company,-1
+2002-01-17 20.10.00,new_v2_e11%2E,cara.semperger@enron.com,7,craig supports me a lot i can also share my burdens at work with him.,work,-1,Power scheduling task,-1
+2002-01-22 7.51.00,new_v2_sent_items_79%2E,cara.semperger@enron.com,0,"good morning, here is the spreadsheet that you sent out with the access for the west power scheduling group.",power,0,Energy,0
+2002-01-22 7.51.00,new_v2_sent_items_79%2E,cara.semperger@enron.com,3,It’s pretty frustrating each time we venture to do the scheduling and it slows us down terribly.,scheduling,-1,Power scheduling task,-1
+2002-01-22 7.51.00,new_v2_sent_items_79%2E,cara.semperger@enron.com,0,"good morning, here is the spreadsheet that you sent out with the access for the west power scheduling group.",scheduling,0,Power scheduling task,0
+2002-01-22 8.04.00,sent_items_78%2E,cara.semperger@enron.com,1,i need to know because i had to go back to work early.,work,-1,Power scheduling task,-1
+2002-01-23 8.16.00,sent_items_76%2E,cara.semperger@enron.com,2,"it was a sweet way to start the day.today there is a meeting from ubs, in about  minutes.",ubs,0,Collaborators,0
+2002-01-23 8.16.00,sent_items_76%2E,cara.semperger@enron.com,2,"it was a sweet way to start the day.today there is a meeting from ubs, in about  minutes.",meeting,0,Power scheduling task,0
+2002-01-23 8.16.00,sent_items_76%2E,cara.semperger@enron.com,4,i will let you know everything.on the way to work i was thinking about us planning for our home.,work,0,Power scheduling task,0
+2002-01-23 8.16.00,sent_items_76%2E,cara.semperger@enron.com,6,"i hated seeing all of your stuff packed away today, i like snuggling with your pillows when you have gone to work.",work,0,Power scheduling task,0
+2002-01-23 8.53.00,new_v2_sent_items_74%2E,cara.semperger@enron.com,3,I believe that my time is running out soon to tie up all the loose ends here at enron.,enron,-1,Company,-1
+2002-01-23 8.53.00,new_v2_sent_items_74%2E,cara.semperger@enron.com,1,spending time with you last night did make me feel better but it’s back to negative vibes at work today.,work,-1,Power scheduling task,-1
+2002-01-23 8.53.00,new_v2_sent_items_74%2E,cara.semperger@enron.com,4,Securing a new job and handling the scheduling at the same time is stressful.,scheduling,-1,Power scheduling task,-1
+2002-01-23 8.53.00,new_v2_sent_items_74%2E,cara.semperger@enron.com,2,The meeting was okay and i might have secured a placement with UBS.,meeting,1,Power scheduling task,1
+2002-01-23 8.53.00,new_v2_sent_items_74%2E,cara.semperger@enron.com,5,Also I’ll need to pass you a few statements tonight for you to safekeep.,statements,0,Statement,0
+2002-01-23 8.53.00,new_v2_sent_items_74%2E,cara.semperger@enron.com,6,I trust you with my life and so I’d trust you with the statements.,statements,1,Statement,1
+2002-01-23 9.16.00,new_v5_36,cara.semperger@enron.com,0,enorn has already started to crumble,enron,-1,Company,-1
+2002-01-24 7.47.00,new_v2_sent_items_70%2E,cara.semperger@enron.com,0,I want to go to the ten am meeting as i am cara freeland now.,meeting,0,Power scheduling task,0
+2002-01-24 7.47.00,new_v2_sent_items_70%2E,cara.semperger@enron.com,2,i expect my change of name to be implemented in the system asap and those in the meeting to address me as freeland.,meeting,0,Power scheduling task,0
+2002-01-28 7.08.00,sent_items_65%2E,cara.semperger@enron.com,0,"mine is all done, whiz quiz completed and paperwork given to gabriellethanks.does this mean that the final stuff is done and we are all locked in for ubs?",ubs,0,Collaborators,0
+2002-01-28 7.11.00,sent_items_64%2E,cara.semperger@enron.com,1,i am going to leave here around noon again ( such a slave ) and go home and work on packing.,work,-1,Power scheduling task,-1
+2002-01-28 7.11.00,sent_items_64%2E,cara.semperger@enron.com,2,"i can meet you at work or we can leave from the house when you get there.i love you, i can't tell you how my heart leapt for joy when i saw your face again.",work,0,Power scheduling task,0
+2002-01-28 9.45.00,sent_items_61%2E,cara.semperger@enron.com,1,"i love you and will see you this after noon.don't work my man too hard, but i will rub your feet when you get home if you do!love,cf",work,-1,Power scheduling task,-1
+2002-01-29 7.56.00,new_v2_sent_items_60%2E,cara.semperger@enron.com,4,lay has not just ruined the company but my mood as well.,lay,-1,Boss,-1
+2002-01-29 7.56.00,new_v2_sent_items_60%2E,cara.semperger@enron.com,2,today i am tying out our february positions with the traders so that they can pre-pay their trades for scheduling feb .,traders,0,Business,0
+2002-01-29 7.56.00,new_v2_sent_items_60%2E,cara.semperger@enron.com,4,lay has not just ruined the company but my mood as well.,company,-1,Company,-1
+2002-01-29 7.56.00,new_v2_sent_items_60%2E,cara.semperger@enron.com,2,today i am tying out our february positions with the traders so that they can pre-pay their trades for scheduling feb .,scheduling,0,Power scheduling task,0
+2002-01-29 7.56.00,new_v2_sent_items_60%2E,cara.semperger@enron.com,5,If anyone ever asks me why there are any discrepancies in the trade sheets or statements I could wring their head off.,statements,-1,Statement,-1
+2002-01-31 10.02.00,new_v2_e12%2E,cara.semperger@enron.com,3,"enron is a failure, lay is a failure and he has dragged us all down with him.",lay,-1,Boss,-1
+2002-01-31 10.02.00,new_v2_e12%2E,cara.semperger@enron.com,3,"enron is a failure, lay is a failure and he has dragged us all down with him.",enron,-1,Company,-1
+2002-01-31 10.02.00,new_v2_e12%2E,cara.semperger@enron.com,1,Things have been a mess this year at work.,work,-1,Power scheduling task,-1
+2002-01-31 10.02.00,new_v2_e12%2E,cara.semperger@enron.com,4,I’m inevitably stuck here still doing scheduling and wondering if my name could stay out of all of these.,scheduling,-1,Power scheduling task,-1
+2002-01-31 11.24.00,sent_items_44%2E,cara.semperger@enron.com,1,"next time you work a day shift, call me and we will go have coffee and iwill give you all the sordid details of my divorce and my now nearly  week stand.",work,0,Power scheduling task,0
+2002-01-31 13.08.00,new_v2_sent_items_40%2E,cara.semperger@enron.com,4,lay has left many of the traders jobless and i can’t help but imagine that if a wretched man like lay might exist in other places I go to.,lay,-1,Boss,-1
+2002-01-31 13.08.00,new_v2_sent_items_40%2E,cara.semperger@enron.com,3,"after all, they have bought enron electricity and gas trading business in bankruptcy proceedings and plan to restart them under its own brand.",business,-1,Business,-1
+2002-01-31 13.08.00,new_v2_sent_items_40%2E,cara.semperger@enron.com,4,lay has left many of the traders jobless and i can’t help but imagine that if a wretched man like lay might exist in other places I go to.,traders,-1,Business,-1
+2002-01-31 13.08.00,new_v2_sent_items_40%2E,cara.semperger@enron.com,5,what if I get involved in another bloody business which entirely turns out to be another scam.,business,-1,Business,-1
+2002-01-31 13.08.00,new_v2_sent_items_40%2E,cara.semperger@enron.com,2,"anyways, i’m wondering if I my decision to go to ubs and be still a part of all of this is the best decision.",ubs,0,Collaborators,0
+2002-01-31 13.08.00,new_v2_sent_items_40%2E,cara.semperger@enron.com,3,"after all, they have bought enron electricity and gas trading business in bankruptcy proceedings and plan to restart them under its own brand.",enron,-1,Company,-1
+2002-02-01 7.43.00,sent_items_35%2E,cara.semperger@enron.com,0,"we are going to plan on being there for the enron schedulers, until they are ready to fly solo",enron,0,Company,0
+2002-02-01 7.47.00,sent_items_34%2E,cara.semperger@enron.com,0,"i have been told today that these folks will have to do all of our scheduling as of monday, they are being trained today but will have to have working logins patterned after donald robinson by the end of business today.serena bishop ( i do not know what she has access to, she was the california scheduler)mike purcell (already has access to some things, but please check his access)if this cannot be done, please call murray o'neil asap.",business,0,Business,0
+2002-02-01 7.47.00,sent_items_34%2E,cara.semperger@enron.com,0,"i have been told today that these folks will have to do all of our scheduling as of monday, they are being trained today but will have to have working logins patterned after donald robinson by the end of business today.serena bishop ( i do not know what she has access to, she was the california scheduler)mike purcell (already has access to some things, but please check his access)if this cannot be done, please call murray o'neil asap.",scheduling,-1,Power scheduling task,-1
+2002-02-01 8.01.00,sent_items_32%2E,cara.semperger@enron.com,0,"good morning,i need new logins created for the following peopleserena_bishopserena.bishop@enron.compw: welcomemike_purcellmike.purcell@enron.compw: welcomebacki need the following logins deleted:lisa gangsusie wilsonstacy runswickwithin a couple of weeks, most of the enron folks will no longer be active, and i will have no access to the system.",enron,-1,Company,-1
+2002-02-01 8.48.00,new_v5_35,cara.semperger@enron.com,0,enron going into bankruptcy is making me popular with gods know who and all questioning me,enron,-1,Company,-1
+2002-02-01 19.15.00,new_v2_e13%2E,cara.semperger@enron.com,2,Gonna play hooky at work I mean its not my headache might as well not disclose it.,work,-1,Power scheduling task,-1
+2002-02-04 7.20.00,sent_items_21%2E,cara.semperger@enron.com,0,individual logins are much more preferable.the ubs schedulers aredonald robinsondiane cutsforthcara freeland,ubs,0,Collaborators,0
+2002-02-04 7.29.00,sent_items_19%2E,cara.semperger@enron.com,1,work is shaping up to be a real snooze-fest.,work,-1,Power scheduling task,-1
+2002-02-04 7.35.00,new_v3_e19%2E,cara.semperger@enron.com,2,My health is way better now all thanks to you.,health,1,Health,1
+2002-02-04 8.11.00,sent_items_18%2E,cara.semperger@enron.com,0,"good morning darling,do you know when the ubs paydays are?",ubs,0,Collaborators,0
+2002-02-04 8.11.00,sent_items_18%2E,cara.semperger@enron.com,1,"we are just trying to figure out what to expect.also,  i need a copy of my signed agreement with ubs, the loan folks for my new condo want it.",ubs,0,Collaborators,0
+2002-02-04 8.17.00,sent_items_16%2E,cara.semperger@enron.com,0,"good morning,i never got a copy of my ubs agreement, and amy said you have been keeping them in case something happened to the fed-ex packages?i can run up and grab it anytime.thanks,cara freeland!",ubs,0,Collaborators,0
+2002-02-04 8.48.00,sent_items_14%2E,cara.semperger@enron.com,1,are there going to be more enron layoffs?,enron,-1,Company,-1
+2002-02-05 9.47.00,new_v3_e20%2E,cara.semperger@enron.com,2,Not worried about the situation happened in the company but slight feelings of discomfort you know.,company,-1,Company,-1
+2002-02-05 9.47.00,new_v3_e20%2E,cara.semperger@enron.com,4,with the company going into bankruptcy it could reflect up on the employees as well,company,-1,Company,-1
+2002-02-05 9.47.00,new_v3_e20%2E,cara.semperger@enron.com,3,With the lawsuit crisis and all.,lawsuit,-1,Legal,-1
+2002-02-05 9.47.00,new_v3_e20%2E,cara.semperger@enron.com,0,anywhere work is boring haha.,work,-1,Power scheduling task,-1
+2002-02-05 9.47.00,new_v3_e20%2E,cara.semperger@enron.com,7,Haha work hard my sweet.,work,1,Power scheduling task,1
+2002-02-05 12.01.00,sent_items_8%2E,cara.semperger@enron.com,0,i spoke with serena and told her how to roll scheduling forward.let me know if that doesn't do it.cf,scheduling,-1,Power scheduling task,-1
+2002-02-06 10.33.00,deleted_items_2%2E,cara.semperger@enron.com,0,"for new ubs employeesi am going to send all of our file migration compliance forms in one batch, so give them to me when you have signed the document migration certificate.",ubs,0,Collaborators,0
+2002-02-06 12.01.00,new_v5_33,cara.semperger@enron.com,0,ubs acquring the trade floor from enron is a good news for all of us,ubs,1,Collaborators,1
+2002-02-06 12.01.00,new_v5_33,cara.semperger@enron.com,1,it has provided us the oppurtunity to join ubs without losing our jobs,ubs,1,Collaborators,1
+2002-02-06 12.01.00,new_v5_33,cara.semperger@enron.com,2,it has acquired more than 630 employees ubs is expected to grow into even larger power,ubs,1,Collaborators,1
+2002-02-06 12.01.00,new_v5_34,cara.semperger@enron.com,0,ubs work environment is at top class not much different in its trading practices though,ubs,1,Collaborators,1

@@ -1,0 +1,203 @@
+I think ubs is  good interms of finance ^Collaborators^1
+ubs has very powerful clients and its global vlaue is large^Collaborators^1
+also, many rows that were flagged for confirmation were not imported, and i cannot find an error log to help understand why deals were not imported to path confirmation.when the path confirmation task was finished,  the application simply froze.^Business^-1
+good morning,my target testing date today is june th,  i am running in test p in local enpower using actual data from our scheduling sheets re-arranged to meet the new guidelines.the daily deals i coded x in columns j and n,  the month long bookouts and bom bookouts i coded r. what worked:i was able to retrieve my saved workspace with all data intact.^Business^0
+a check of deals actually scheduled vs. build route results showed that all deals were extracted correctly from enpower.^Business^0
+multiple sorting will contunue to be done in excel, or we can do a series of single sorts in the psw to acheive the same result.routing deals: will had deleted all routes for june th, starting me with a clean slate.^Business^0
+the deals that were not routed appear to be due to a user error of deal number duplication in the sheet.^Business^0
+most routing was done, and a spot check of deals shows that they were routed properly.^Business^1
+this routing was very easy, a large point with on peak non shaped deals only.things i did not expect that i liked:when i highlight a group of cells in build route, it stays highlighted when i move up to the scheduling sheet to highlight a comparison group of cells.^Business^1
+this current speed will not be sufficient to work in production.^Energy^-1
+the improvement we are expecting to see is the app should not duplicate deal strips on dates that have no physical power flow.^Energy^0
+i had difficulty checking the routing results, as i kept getting bde errors in scheduling after routing had occurred (local enpower).^Power scheduling task^-1
+this current speed will not be sufficient to work in production.^Power scheduling task^-1
+good morning,my target testing date today is june th,  i am running in test p in local enpower using actual data from our scheduling sheets re-arranged to meet the new guidelines.the daily deals i coded x in columns j and n,  the month long bookouts and bom bookouts i coded r. what worked:i was able to retrieve my saved workspace with all data intact.^Power scheduling task^0
+(west light load currently does this in start view, but not active view)navigating around the scheduling sheet itself i was able to accurately execute the sort function on a single criteria at a time.^Power scheduling task^0
+this routing was very easy, a large point with on peak non shaped deals only.things i did not expect that i liked:when i highlight a group of cells in build route, it stays highlighted when i move up to the scheduling sheet to highlight a comparison group of cells.^Power scheduling task^0
+scheduling kept starting up in .^Power scheduling task^1
+Thank you tim for you great help. ^Boss^1
+it is good that tim was there today, the other party was obsurd on the contracts and settlements don’t you think^Boss^1
+ya and I think tim has good relationship with one of the partners ^Boss^1
+haha no one would trust lay regarding the matter at hand^Boss^-1
+I mean come on lay is spouting lies we see the sheets everyday its always so misleading^Boss^-1
+I would trust tim more he has always been focused on the work^Boss^1
+i am only putting physical paths in the confirm upload, which reduces the data set dramatically.i have routed midc for /, the bpa deals left unrouted are .^Business^0
+this type of deal will always be done, and there are other deals that get moved in the southwest as well.^Business^0
+there is a walc transmission deal that is at pinnacle peak, and is changed daily in scheduling to west wing.the deals missing dashes seem to all be the same.^Business^0
+daily summary is a current function; creating data that i use to report our volumes to our traders, belden, and lavorato.^Business^0
+this must be done for production, as they ask me for this often.^Energy^0
+we would like the delivery point selection to mimic the same functionality as the delivery point selection we see in scheduling.^Power scheduling task^0
+remember, you are giving this meeting!^Power scheduling task^0
+tim,i just want to tell you how much i respect and admire how you have handled this situation.^Boss^1
+darling I hate it so much here lay destroyed this company for good so frustrating!!^Boss^-1
+in the last meeting I heard lay was shouting at one of the investors^Boss^-1
+i also filled her in on our situation as a company, she had no idea.^Company^0
+susie and i talked, she and i agreed that she would work - m-th,  and - on fridays.^Power scheduling task^1
+"billion dollars, so i am the one buying enron.my new company is called  ""cara-land""."^Company^1
+"good eveningi ran a master download for december  so that over the next few days i can test the overwriting fix, and found two deals that are  hour deals, show scheduled hours of -, but are segregated with the ""off peak"" deals."^Business^0
+no, i will just make a note of these two strange deals^Business^0
+any change to it must go thru me.the change in the build route for dart deals is a minor one, a check box on the user interface.^Business^0
+real time can run the report to show only dart deals, and they would be captured that way.please see me before any changes to the build route are discussed.cara^Business^0
+i am suprised at how little the bare bones employee and the full package employee trips differ in price!i wanna do the  grand package.^Finance^-1
+mike tully is going to work on this with you today.^Power scheduling task^0
+good morning,here are the direct bookouts i have matched up along with my options i only show open cob contracts on the llhgive me a call when you are ready to go.^Business^0
+good morning,here is the bookout disposition that i have so far, along with my booking out options for the llh contracts that we have open.^Business^0
+i am only doing cob, diane will be doing midccara sempergerwest power scheduling supervisorenron north america/-^Energy^0
+i am only doing cob, diane will be doing midccara sempergerwest power scheduling supervisorenron north america/-^Power scheduling task^0
+other deals is fine,build route has been selecting the hourly deals just fine, and including them in the off peak sections.^Business^1
+we must be able to see these deals, as we have a great many deals with odd hours and shaped schedules.thanks,cara^Business^1
+running a month long sheet from scratch is a huge problem for us, it forces us to do massive amounts of work over and over again.i need you to find out why this is happening, and let me know when it is fixed.cara^Power scheduling task^-1
+"we also need a box that says ""include only dart deals""please also  make absolutely sure that this is included in the psw build route, as we use it nearly exclusively now.vish knows about our problems with that.cara"^Business^0
+i have re-started enpower since the e-mail came out saying that the new version has been put into production.i ran the attatched sheet, and the last group of deals that i was given had old deals blended with new deals.these start on line .^Business^0
+good morning,only one open contract for december left to find a sink for!^Business^1
+something is broken with the new release,none of our light load deals pull in!^Business^-1
+this is priority,  why would heavy load and  hour deals pull in, but not light load deals?please see the attached sheet!we should be seeing  at palo at pge system^Business^-1
+cara sempergerwest power scheduling supervisorenron north america/-^Energy^0
+no changes to any existing data, just adding real power losses^Energy^-1
+put vending machines in where it says cows, and you have the filed business plan for my new company^Business^0
+put vending machines in where it says cows, and you have the filed business plan for my new company^Company^0
+we are still trying to deliver on contract, and not all of our counterparties have cut us off.^Business^-1
+we are still trying to deliver on contract, and not all of our counterparties have cut us off.^Business^-1
+but i don’t find things going any better from here i can't imagine for the life of me why anyone would continue to do business with enron!^Business^-1
+hi sweetie, i still can't believe all of this, enron is laying off people here left and right, our traders are trying to call in favors to find jobs for as many people as possible.^Business^1
+hi sweetie, i still can't believe all of this, enron is laying off people here left and right, our traders are trying to call in favors to find jobs for as many people as possible.^Company^-1
+but i don’t find things going any better from here i can't imagine for the life of me why anyone would continue to do business with enron!^Company^-1
+most of our counterparties have stopped business with us.^Business^-1
+most of our counterparties have stopped business with us.^Business^-1
+the profit and loss statement of december shows me this company is failing down.^Company^-1
+i am glad to see that, i felt really bad for how upset he was.he is going to go stay with his folks for a few days, they had their insurance company call and tell them that if they didn't clean up the outside of the house that they would drop them from insurance.^Company^0
+i'm also thinking about moving to another company, but not sure where should i go.^Company^0
+hi mom,i am still here, there is so little work that pretty much all i do is talk to people, play computer games and read e-mail.^Power scheduling task^-1
+the profit and loss statement of december shows me this company is failing down.^Statement^-1
+i propose that while work is so slow we have some informal tutorials from the folks who know stuff.sqlaccessexcel stuff (susie is a bona-fide expert teacher!^Power scheduling task^-1
+there are bpa real power losses for the th only  and some transmission only paths^Energy^-1
+i will be surrendering my cell phone when enron no longer wishes to pay for it^Company^-1
+only a few people left in enron that i really trust.^Company^0
+hi mom, friday was a horrible day at work, we had layoffs of about % of our office.^Power scheduling task^-1
+let's meet tomorrow morning about  am to let me show you all of the tools that scheduling uses.^Power scheduling task^0
+please join us if you would like.cara- (work)^Power scheduling task^0
+:)many counterparties have already terminated deals with us it is so stressful!^Business^-1
+:)many counterparties have already terminated deals with us it is so stressful!^Business^-1
+hi julie,since the stress of work is making me drink, will my liver transplant be covered by the company?^Company^0
+hi julie,since the stress of work is making me drink, will my liver transplant be covered by the company?^Power scheduling task^-1
+if you could use a little company, i would be game for something fun to do!^Company^-1
+i am going to work very hard to come through this with dave and me as much friends as possible, so that the stress to us all will be minimized.^Power scheduling task^1
+i got him this truck to help him with his business.^Business^0
+i think it would be wise.also, if you want to transfer pahio to our joint account that is fine,  i would like to have pahio.when you come up, if you want to come to work here and get the car and give me the truck keys, we can do that.^Power scheduling task^0
+i am keeping that one in my palm pilot so i can read it anywhere i want.i woke up thinking about you, took my bubble bath and looked at my pink toenails thinking about you, put on my lotion thinking about you, drove to work singing along with the radio to steely dan thinking about you, and am just about useless at my desk thinking about you.i really enjoyed just vegging last night.^Power scheduling task^0
+we’ve lost a huge number of deals and are scrambling to make the best we can out of the few contracts we hold on to and it’s been nothing short of oppressive.^Business^-1
+we’ve lost a huge number of deals and are scrambling to make the best we can out of the few contracts we hold on to and it’s been nothing short of oppressive.^Business^-1
+also to top it all off, things have been seemingly more difficult at work.^Power scheduling task^-1
+with the little pathetic deals we have, I can only see darkness looming ahead.^Business^-1
+hi, i am sitting here at my desk talking contracts and energy.^Business^0
+the place once filled with the chatter of traders has now turned to gloom.^Business^0
+all I can think of is how depressing enron has become.^Company^-1
+hi, i am sitting here at my desk talking contracts and energy.^Energy^0
+hi,i am sitting here at my desk talking contracts and energy, and in myhead i am thinking about kisses, caresses, and waking up with you.^Business^-1
+hi,i am sitting here at my desk talking contracts and energy, and in myhead i am thinking about kisses, caresses, and waking up with you.^Energy^-1
+good morning,i am going into a meeting at nine for i am not sure how long, so just leave a message if you have a problem or a question.^Power scheduling task^0
+you are the only thing on my calendar after tonight, sir.call me at work, i would love to hear your voice.^Power scheduling task^0
+hi donald,i got a smattering of information that the big e will probably go after us contract folks that attempt to defect.^Business^-1
+good morning..........sir,i am wearing my sweatshirt and my new boots to work, so my feet are warm and i feel like i have you wrapped around me.^Power scheduling task^0
+good natured fun dancing with the buds from work.^Power scheduling task^1
+just thinking of the plenty of people who lost their retirement savings when the value of their Enron stock evaporated makes me sick to the stomach.^Stock^-1
+i am officially playing hooky from work tomorrow.^Power scheduling task^-1
+looking at the atmosphere right now things are not good lay has left us to be doomed^Boss^-1
+lay is a complete failure^Boss^-1
+I wonder how you’re still clinging on when business at enron is terrible.^Business^-1
+I wonder how you’re still clinging on when business at enron is terrible.^Company^-1
+looks like dynergy might be targetting our energy pipelines which will then be even more horrible for us.^Collaborators^-1
+looks like dynergy might be targetting our energy pipelines which will then be even more horrible for us.^Energy^-1
+I believe no one would want to do business with us any longer.^Business^-1
+Without the energy pipeline, how should we convince the traders that enron is reliable?^Business^-1
+It allows dynergy to acquire our pipeline and that is just dreadful news.^Collaborators^-1
+anyway, have you heard that enron settled a procedural dispute with dynergy?^Collaborators^1
+and I’m thinking ubs is a good choice for us.^Collaborators^1
+Without the energy pipeline, how should we convince the traders that enron is reliable?^Company^-1
+I really don’t agree or buy into the rubbish that this settlement might bring enron out of the issue.^Company^-1
+i frankly believe that enron is over.^Company^-1
+anyway, have you heard that enron settled a procedural dispute with dynergy?^Company^1
+Without the energy pipeline, how should we convince the traders that enron is reliable?^Energy^-1
+there seems to be a huge cloud of dread about the air of enron.^Company^-1
+i am at work for a few minutes and it already feels like some of the worse minutes.^Power scheduling task^-1
+hi mum, I don't want to tell you much over email as I'd rather talk but the future for enron seems dark and the stress is taking a toll on my health.^Company^-1
+hi mum, I don't want to tell you much over email as I'd rather talk but the future for enron seems dark and the stress is taking a toll on my health.^Health^-1
+hi sweetie, I've been hearing so much rumours about lay and what a terrible person he was.^Boss^-1
+so many traders have lost their jobs because of him and I can't imagine what we have all been a part of.^Business^-1
+I don't see any point in scheduling for a company that is going down and business looks terrible for everyone around.^Business^-1
+I don't see any point in scheduling for a company that is going down and business looks terrible for everyone around.^Company^-1
+I don't see any point in scheduling for a company that is going down and business looks terrible for everyone around.^Power scheduling task^-1
+The statements so far seem not so convincing to me.^Statement^-1
+The matter regarding the stock and statements we discussed other what do you think?^Statement^0
+The matter regarding the stock and statements we discussed other what do you think?^Stock^0
+figures, with the deals closing last month, the dec cash forecast was very poor failing to meet the nyse standards.^Business^-1
+things are hectic here as with the recent events going on pretty much enron is headlines everywhere.^Company^0
+hi dearie, how is work today?^Power scheduling task^0
+we are already delisted by nyse.^Stock^-1
+figures, with the deals closing last month, the dec cash forecast was very poor failing to meet the nyse standards.^Stock^-1
+tim  is not disclosing any information either.^Boss^-1
+i mean lay is feeding us more lies.^Boss^-1
+all this makes me wanna drink but my health is so weak deary.^Health^-1
+ya, enron is pretty much headlines everywhere.^Company^-1
+craig supports me a lot i can also share my burdens at work with him.^Power scheduling task^-1
+good morning, here is the spreadsheet that you sent out with the access for the west power scheduling group.^Energy^0
+It’s pretty frustrating each time we venture to do the scheduling and it slows us down terribly.^Power scheduling task^-1
+good morning, here is the spreadsheet that you sent out with the access for the west power scheduling group.^Power scheduling task^0
+i need to know because i had to go back to work early.^Power scheduling task^-1
+it was a sweet way to start the day.today there is a meeting from ubs, in about  minutes.^Collaborators^0
+it was a sweet way to start the day.today there is a meeting from ubs, in about  minutes.^Power scheduling task^0
+i will let you know everything.on the way to work i was thinking about us planning for our home.^Power scheduling task^0
+i hated seeing all of your stuff packed away today, i like snuggling with your pillows when you have gone to work.^Power scheduling task^0
+I believe that my time is running out soon to tie up all the loose ends here at enron.^Company^-1
+spending time with you last night did make me feel better but it’s back to negative vibes at work today.^Power scheduling task^-1
+Securing a new job and handling the scheduling at the same time is stressful.^Power scheduling task^-1
+The meeting was okay and i might have secured a placement with UBS.^Power scheduling task^1
+Also I’ll need to pass you a few statements tonight for you to safekeep.^Statement^0
+I trust you with my life and so I’d trust you with the statements.^Statement^1
+enorn has already started to crumble^Company^-1
+I want to go to the ten am meeting as i am cara freeland now.^Power scheduling task^0
+i expect my change of name to be implemented in the system asap and those in the meeting to address me as freeland.^Power scheduling task^0
+mine is all done, whiz quiz completed and paperwork given to gabriellethanks.does this mean that the final stuff is done and we are all locked in for ubs?^Collaborators^0
+i am going to leave here around noon again ( such a slave ) and go home and work on packing.^Power scheduling task^-1
+i can meet you at work or we can leave from the house when you get there.i love you, i can't tell you how my heart leapt for joy when i saw your face again.^Power scheduling task^0
+i love you and will see you this after noon.don't work my man too hard, but i will rub your feet when you get home if you do!love,cf^Power scheduling task^-1
+lay has not just ruined the company but my mood as well.^Boss^-1
+today i am tying out our february positions with the traders so that they can pre-pay their trades for scheduling feb .^Business^0
+lay has not just ruined the company but my mood as well.^Company^-1
+today i am tying out our february positions with the traders so that they can pre-pay their trades for scheduling feb .^Power scheduling task^0
+If anyone ever asks me why there are any discrepancies in the trade sheets or statements I could wring their head off.^Statement^-1
+enron is a failure, lay is a failure and he has dragged us all down with him.^Boss^-1
+enron is a failure, lay is a failure and he has dragged us all down with him.^Company^-1
+Things have been a mess this year at work.^Power scheduling task^-1
+I’m inevitably stuck here still doing scheduling and wondering if my name could stay out of all of these.^Power scheduling task^-1
+next time you work a day shift, call me and we will go have coffee and iwill give you all the sordid details of my divorce and my now nearly  week stand.^Power scheduling task^0
+lay has left many of the traders jobless and i can’t help but imagine that if a wretched man like lay might exist in other places I go to.^Boss^-1
+after all, they have bought enron electricity and gas trading business in bankruptcy proceedings and plan to restart them under its own brand.^Business^-1
+lay has left many of the traders jobless and i can’t help but imagine that if a wretched man like lay might exist in other places I go to.^Business^-1
+what if I get involved in another bloody business which entirely turns out to be another scam.^Business^-1
+anyways, i’m wondering if I my decision to go to ubs and be still a part of all of this is the best decision.^Collaborators^1
+after all, they have bought enron electricity and gas trading business in bankruptcy proceedings and plan to restart them under its own brand.^Company^-1
+we are going to plan on being there for the enron schedulers, until they are ready to fly solo^Company^0
+i have been told today that these folks will have to do all of our scheduling as of monday, they are being trained today but will have to have working logins patterned after donald robinson by the end of business today.serena bishop ( i do not know what she has access to, she was the california scheduler)mike purcell (already has access to some things, but please check his access)if this cannot be done, please call murray o'neil asap.^Business^0
+i have been told today that these folks will have to do all of our scheduling as of monday, they are being trained today but will have to have working logins patterned after donald robinson by the end of business today.serena bishop ( i do not know what she has access to, she was the california scheduler)mike purcell (already has access to some things, but please check his access)if this cannot be done, please call murray o'neil asap.^Power scheduling task^-1
+good morning,i need new logins created for the following peopleserena_bishopserena.bishop@enron.compw: welcomemike_purcellmike.purcell@enron.compw: welcomebacki need the following logins deleted:lisa gangsusie wilsonstacy runswickwithin a couple of weeks, most of the enron folks will no longer be active, and i will have no access to the system.^Company^-1
+enron going into bankruptcy is making me popular with gods know who and all questioning me^Company^-1
+Gonna play hooky at work I mean its not my headache might as well not disclose it.^Power scheduling task^-1
+individual logins are much more preferable.the ubs schedulers aredonald robinsondiane cutsforthcara freeland^Collaborators^1
+work is shaping up to be a real snooze-fest.^Power scheduling task^-1
+My health is way better now all thanks to you.^Health^1
+good morning darling,do you know when the ubs paydays are?^Collaborators^0
+we are just trying to figure out what to expect.also,  i need a copy of my signed agreement with ubs, the loan folks for my new condo want it.^Collaborators^1
+good morning,i never got a copy of my ubs agreement, and amy said you have been keeping them in case something happened to the fed-ex packages?i can run up and grab it anytime.thanks,cara freeland!^Collaborators^1
+are there going to be more enron layoffs?^Company^-1
+Not worried about the situation happened in the company but slight feelings of discomfort you know.^Company^-1
+with the company going into bankruptcy it could reflect up on the employees as well^Company^-1
+With the lawsuit crisis and all.^Legal^-1
+anywhere work is boring haha.^Power scheduling task^-1
+Haha work hard my sweet.^Power scheduling task^1
+i spoke with serena and told her how to roll scheduling forward.let me know if that doesn't do it.cf^Power scheduling task^-1
+for new ubs employeesi am going to send all of our file migration compliance forms in one batch, so give them to me when you have signed the document migration certificate.^Collaborators^0
+ubs acquring the trade floor from enron is a good news for all of us^Collaborators^1
+it has provided us the oppurtunity to join ubs without losing our jobs^Collaborators^1
+it has acquired more than 630 employees ubs is expected to grow into even larger power^Collaborators^1
+ubs work environment is at top class not much different in its trading practices though^Collaborators^1
